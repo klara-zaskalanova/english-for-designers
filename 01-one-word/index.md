@@ -25,9 +25,9 @@ When hearing the word **always**, I realize it more than other words. it's a wor
 My dad is a psychologist and he does a lot of couple therapy. So this little advice is one of those he repeats very often. By using word always in your relationship, you can hurt your partner, friend or a family member in a second. Simply because it’s probable, that your statement is not true. By accusing your partner of always interrupting you, or of always leaving the lights on, you automatically put them in defensive mode. And simple as that, you are starting or escalating an argument. So instead of exaggerating the situation, try to replace **always** with a sentence of a different tone:
 
 > I don’t like it when you interrupt me.
->
+
 > It hurts me, when you are watching TV while I’m talking to you.
->
+
 > Please, could you turn the lights off when you leave the room, thank you.
 
 After my dad corrected me around three times when I used this word, I started to be really sensitive to it. And not even that much while hearing it from others, but while using it myself. Every time I catch myself using it, I am like _No, not that word_. I immediately have the urge to correct myself and I also do so. Because I realise, that it is not true. 
