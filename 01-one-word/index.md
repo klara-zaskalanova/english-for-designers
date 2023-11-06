@@ -28,3 +28,9 @@ My dad is a psychologist and he does a lot of couple therapy. So this little adv
 > Please, could you turn the lights off when you leave the room, thank you.
 
 After my dad corrected me around three times when I used this word, I started to be really sensitive to it. And not even that much while hearing it from others, but while using it myself. Every time I catch myself using it, I am like _No, not that word_. I immediately have the urge to correct myself and I also do so. Because I realise, that it is not true. 
+
+
+
+- [Revision](https://klara-zaskalanova.github.io/english-for-designers/01-one-word/revision)
+
+- [First Draft](https://klara-zaskalanova.github.io/english-for-designers/01-one-word/first-draft)
