@@ -1,6 +1,9 @@
 # Always
 by Klára Záskalanová
 
+![a-couple-arguing](https://github.com/klara-zaskalanova/english-for-designers/assets/149419139/438ff07f-9837-4c04-aed0-05df3c525bbb)
+
+![Animated couple standing face to face and arguing with a speech bubble between them saying "always".](a-couple-arguing-jpg)
 
 In situations when I had little or bigger argument with my dad, I would often say something like this:
 
