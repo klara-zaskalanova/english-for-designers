@@ -6,6 +6,6 @@ Now, my dad is a psychologist and he does a lot of couple therapy, so this advic
 
 ~~So back to the story why I chose this word.~~ After my dad corrected me around three times when I used this word, I started to be really sensitive to it. And not even that much from the side of others, but while using it myself. Every time I catch myself using it, I am like *No, not that word*. I immediately have the urge to correct myself and I also do so. Because in that moment I realise, that it is not true. And I do want to tell the truth and I also don’t want to hurt the others. ~~So that is the story of a word that I am trying not to use.~~
 
-- [One Word](01-one-word)
+- [One Word Final](https://klara-zaskalanova.github.io/english-for-designers/01-one-word/index)
 
 - [Revision](https://klara-zaskalanova.github.io/english-for-designers/01-one-word/revision)
