@@ -1,2 +1,0 @@
-# Always
-by Klára Záskalanová
