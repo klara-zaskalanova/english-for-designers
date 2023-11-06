@@ -15,6 +15,6 @@ My dad is a psychologist and he does a lot of couple therapy. So this little adv
 After my dad corrected me around three times when I used this word, I started to be really sensitive to it. And not even that much while hearing it from others, but while using it myself. Every time I catch myself using it, I am like _No, not that word_. I immediately have the urge to correct myself and I also do so. Because I realise, that it is not true. 
 
 
-- [One Word](01-one-word)
+- [One Word Final](https://klara-zaskalanova.github.io/english-for-designers/01-one-word/index)
 
 - [First Draft](https://klara-zaskalanova.github.io/english-for-designers/01-one-word/first-draft)
