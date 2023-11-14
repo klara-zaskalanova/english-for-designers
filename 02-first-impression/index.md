@@ -15,25 +15,15 @@
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+_Hello, I’m Klára,_
 
-– Elevating user experiences of meaningful causes.
-– Slovakia based
-– mentaly in Slovak mountains
-– graphic designer, ux designer
-- aiming to make a world less complicated place
-
-- I'm Klára, a graphic and UX designer mentally based in the Slovak mountains. Passionate about elevating user experiences for meaningful causes, I strive to make the world a less complicated place through thoughtful design.
-- Hi, I'm Klára, mentally based in the Slovak mountains. I'm a graphic and UX designer elevating user experiences for meaningful causes.
-- I'm Klára, a graphic and UX designer, elevating user experiences for meaningful causes. I strive to make the world a less complicated place through design.
-- I'm Klára, a graphic and UX designer, elevating user experiences for meaningful causes. Striving to make the world a less complicated place.
-- I'm Klára, a graphic and UX designer mentally based in the Slovak mountains. I'm elevating user experiences for meaningful causes and I'm striving to make the world a less complicated place through design.
+_UX, UI and visual designer, striving to make the world a less complicated place. Currently commuting between Slovakia and Prague, I'm open to work remotely as well._
 
 ## Featured Projects
 
 A short description about the work.
 
-### Featured Project 1 Title
+### Revma v klidu (Revmatism with chill)
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
