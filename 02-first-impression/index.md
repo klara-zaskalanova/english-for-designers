@@ -30,7 +30,7 @@ A short description about the work.
 ![Write an alternative text description.](img/featured-project-01.png)
 
 - A short description about the project — *Online educational and motivational course for people with revmatic diseases. It is being created by Česko.digital (Czech.digital), volunteer community of profesionals*.
-- A short description about the significance of the project — *The aim of the project is to spread awareness of the disease and to motivate the patients to physical exercise at home. It will help people, who can't afford exercising with professional assistence in a long-term. This project is one of its kind in Czech Republic*.
+- A short description about the significance of the project — *The aim of the project is to spread awareness of the disease and to motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistence in a long-term. This project is one of its kind in Czech Republic*.
 - A short description about the outcome of the project — *I gained the experience of in-depth user interviews and user testing, worked in a crosss-field team and once again found my sence for the tiniest detail. I became a part of the Česko.digital community, as well*.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
