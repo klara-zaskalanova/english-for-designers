@@ -33,7 +33,15 @@ A short description about the work.
 - A short description about the significance of the project — *The aim of the project is to spread awareness of the disease and to motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistence in a long-term. This project is one of its kind in Czech Republic*.
 - A short description about the outcome of the project — *I gained the experience of in-depth user interviews and user testing, worked in a crosss-field team and once again found my sence for the tiniest detail. I became a part of the Česko.digital community, as well*.
 
-<!-- Use the same stucture above for the rest of your featured projects. -->
+### Aura Cake Architect
+
+<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+
+![Write an alternative text description.](img/featured-project-01.png)
+
+- *Visual identity for a pattiserie*.
+- *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoing the dessert and the moment itself *.
+- *Since it's a small business, the branding was all on me. I created a list of potential names, of course the design, but I also provided my client with a competition research. In this project I was also a photographer, I took the photos, I edited the photos. I was a copywriter – I created the text for Thank-you cards, where we wanted to communicate the main idea of the business*.
 
 ## Notes
 
