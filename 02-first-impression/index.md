@@ -51,7 +51,7 @@ A short description about the work.
 
 - A short description about the project — *Visual identity for Czech School in London. School project for a real client*.
 - A short description about the significance of the project — *The school was facing a problem of categorising their activities in online and offline communication. Our goal was to distinguish the areas and make the communication understandable*.
-- A short description about the outcome of the project — *We solved their problem of categorising activities. We came up with symbols representing four pillars of the school: education, extracurricular activities, special events and volunteering. The client chose our indetity and the collaboration continued*.
+- A short description about the outcome of the project — *We (me and my classmate) solved their problem of categorising activities. We came up with symbols representing four pillars of the school: education, extracurricular activities, special events and volunteering. The client chose our indetity and the collaboration continued. I also realized the importance of working in a team. I was lucky to find a like-minded colleague in my classmate and our wokr collaboration continues*.
 
 ## Notes
 
