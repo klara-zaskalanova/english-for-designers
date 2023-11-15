@@ -41,7 +41,7 @@ My visuals always derive from clients needs, therefore they differ. <!-- I don't
 
 - *Visual identity for a pattiserie*.
 - *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoying the dessert and the moment itself*.
-- *Since it's a small business, the branding was all on me. I created a list of potential names, of course the design, but I also provided my client with a competition research. In this project I was also a photographer, I took the photos, I edited the photos. I was a copywriter – I created the text for Thank-you cards, where we wanted to communicate the main idea of the business*.
+- *Since it's a small business, the branding was all on me. I created a list of potential names, of course the design, but I also provided my client with a competition research. **EDIT** In this project I was also a photographer, I took the photos, I edited the photos. I was a copywriter – I created the text for Thank-you cards, where we wanted to communicate the main idea of the business*.
 
 ### Czech School Without Borders, London
 
