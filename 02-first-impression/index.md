@@ -49,9 +49,9 @@ A short description about the work.
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-- A short description about the project — *Online educational and motivational course for people with revmatic diseases. It is being created by Česko.digital (Czech.digital), volunteer community of profesionals*.
-- A short description about the significance of the project — *The aim of the project is to spread awareness of the disease and to motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistence in a long-term. This project is one of its kind in Czech Republic*.
-- A short description about the outcome of the project — *I gained the experience of in-depth user interviews and user testing, worked in a crosss-field team and once again found my sence for the tiniest detail. I became a part of the Česko.digital community, as well*.
+- A short description about the project — *Visual identity for Czech School in London. School project for a real client*.
+- A short description about the significance of the project — *The school was facing a problem of categorising their activities in online and offline communication. Our goal was to distinguish the areas and make the communication understandable*.
+- A short description about the outcome of the project — *We solved their problem of categorising activities. We came up with symbols representing four pillars of the school: education, extracurricular activities, special events and volunteering. The client chose our indetity and the collaboration continued*.
 
 ## Notes
 
