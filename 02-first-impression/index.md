@@ -17,11 +17,11 @@
 
 _Hello, I’m Klára,_
 
-_junior UX, UI and visual designer, striving to make the world a less complicated place. Currently commuting between Slovakia and Prague, I'm open to work remotely as well._
+_junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. Currently commuting between Slovakia and Prague, I'm open to work remotely as well._
 
 ## Featured Projects
 
-I
+My visuals always derive from clients needs, therefore they differ. <!-- I don't have a specific style. --> For the following presentation I chose three projects from entirely different areas. For my work, I like to choose projects that are, in my eyes, meaningful. I tend to choose topics <!-- connected to --> of mental health, physical health, education or culture.
 
 ### Revmatism with chill (Revma v klidu)
 
