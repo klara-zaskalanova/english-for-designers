@@ -21,7 +21,7 @@ _junior UX, UI and visual designer, striving to make the world a less complicate
 
 ## Featured Projects
 
-A short description about the work.
+I
 
 ### Revmatism with chill (Revma v klidu)
 
@@ -40,7 +40,7 @@ A short description about the work.
 ![Write an alternative text description.](img/featured-project-01.png)
 
 - *Visual identity for a pattiserie*.
-- *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoing the dessert and the moment itself*.
+- *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoying the dessert and the moment itself*.
 - *Since it's a small business, the branding was all on me. I created a list of potential names, of course the design, but I also provided my client with a competition research. In this project I was also a photographer, I took the photos, I edited the photos. I was a copywriter – I created the text for Thank-you cards, where we wanted to communicate the main idea of the business*.
 
 ### Czech School Without Borders, London
@@ -51,7 +51,7 @@ A short description about the work.
 
 - *Visual identity for Czech School in London. School project for a real client*.
 - *The school was facing a problem of categorising their activities in online and offline communication. Our goal was to distinguish the areas and make the communication understandable*.
-- *We (me and my classmate) solved their problem of categorising activities. We came up with symbols representing four pillars of the school: education, extracurricular activities, special events and volunteering. The client chose our indetity and the collaboration continued. I also realized the importance of working in a team. I was lucky to find a like-minded colleague in my classmate and our wokr collaboration continues*.
+- *We (me and my classmate) solved their problem of categorising activities. We came up with symbols representing four pillars of the school: education, extracurricular activities, special events and volunteering. The client chose our indetity and the collaboration continued. I also realized the importance of working in a team. I was lucky to find a like-minded colleague in my classmate and our work collaboration continues*.
 
 <!-- ### Featured Project Title 1 -->
 
