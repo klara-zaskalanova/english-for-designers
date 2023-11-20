@@ -4,7 +4,7 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf)
+<!-- - [View Presentation](img/surname-draft-first-impression-2023.pdf)-->
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
@@ -17,7 +17,7 @@
 
 _Hello, I’m Klára,_
 
-_junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. Currently commuting between Slovakia and Prague, I'm open to work remotely as well._
+_junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. Currently commuting between Banská Bystrica(SK) and Prague(CZ), open to remote work and hitting the mountain trails._
 
 ## Featured Projects
 
