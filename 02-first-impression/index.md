@@ -17,7 +17,7 @@
 
 _Hello, I’m Klára,_
 
-_junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. Currently commuting between Banská Bystrica(SK) and Prague(CZ), open to remote work and hitting the mountain trails._
+_junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. Currently commuting between Banská Bystrica (SK) and Prague (CZ), open to remote work and hitting the mountain trails._
 
 ## Featured Projects
 
