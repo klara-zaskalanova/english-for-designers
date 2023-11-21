@@ -16,41 +16,37 @@
 <!--![Write an alternative text description.](img/surname-headshot.jpg)-->
 
 _Hello, I’m Klára,_
-
 _junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. I'm currently commuting between Banská Bystrica (SK) and Prague (CZ), open to remote work and hitting the mountain trails._
 
 ## Featured Projects
 
 My visuals always derive from clients needs, therefore they differ. <!-- I don't have a specific style. --> For the following presentation I chose three projects from entirely different areas. For my work, I like to choose projects that are, in my eyes, meaningful. I tend to choose topics <!-- connected to --> of mental health, physical health, education or culture.
 
-### Rheumatism with chill (Revma v klidu)
+### Rheumatism with chill (Revma v klidu) / 2023
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](revma-v-klidu.png)
-_2023_
 
 - *Online educational and motivational course for people with revmatic diseases. It is being created by Česko.digital (Czech.digital), volunteer community of profesionals*.
 - *The aim of the project is to spread awareness of the disease and to motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistence in a long-term. This project is one of its kind in Czech Republic*.
 - *I gained the experience of in-depth user interviews and user testing, worked in a crosss-field team and once again found my sence for the tiniest detail. I became a part of the Česko.digital community, as well*.
 
-### Aura Cake Architect
+### Aura Cake Architect / 2023
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](aura-cake-architect.png)
-_2023_
 
 - *Visual identity for a pattiserie*.
 - *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoying the dessert and the moment itself*.
 - *Since it's a small business, the branding was all on me. I created a list of potential names, of course the design, but I also provided my client with a competition research. **EDIT** In this project I was also a photographer, I took the photos, I edited the photos. I was a copywriter – I created the text for Thank-you cards, where we wanted to communicate the main idea of the business*.
 
-### Czech School Without Borders, London
+### Czech School Without Borders, London / 2022
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](cswb-london.png)
-_2022_
 
 - *Visual identity for Czech School in London. School project for a real client*.
 - *The school was facing a problem of categorising their activities in online and offline communication. Our goal was to distinguish the areas and make the communication understandable*.
