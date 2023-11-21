@@ -7,7 +7,7 @@
 <!-- - [View Presentation](img/surname-draft-first-impression-2023.pdf)-->
 - [About](#about)
 - [Featured Projects](#featured-projects)
-- [Notes](#notes)
+<!-- - [Notes](#notes) -->
 
 ## About
 
@@ -62,11 +62,11 @@ My visuals always derive from clients needs, therefore they differ. <!-- I don't
 - A short description about the significance of the project — *the whys*.
 - A short description about the outcome of the project — *the result or takeaway*. -->
 
-## Notes
+<!-- ## Notes 
+-->
+<!-- Numbered comments about each featured project as presenter notes or speaking points. -->
 
-Numbered comments about each featured project as presenter notes or speaking points.
-
-1. …
+<!-- 1. …
 2. …
 3. …
-<!-- And so on. -->
+And so on. -->
