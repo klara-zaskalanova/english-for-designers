@@ -1,7 +1,5 @@
 # Always
-by Klára Záskalanová
-
-20 November 2023
+by Klára Záskalanová, 20 November 2023
 
 ![A couple in a heated argument. A guy talking down to a girl (arms folded) with a speech bubble between them saying “Always!”.](couple-arguing.png)
 
