@@ -26,7 +26,7 @@ My visuals always derive from clients needs, therefore they differ. <!-- I don't
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](revma-v-klidu.png)
+![Write an alternative text description.](img/revma-v-klidu.png)
 
 - *Online educational and motivational course for people with revmatic diseases. It is being created by Česko.digital (Czech.digital), volunteer community of profesionals*.
 - *The aim of the project is to spread awareness of the disease and to motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistence in a long-term. This project is one of its kind in Czech Republic*.
@@ -36,7 +36,7 @@ My visuals always derive from clients needs, therefore they differ. <!-- I don't
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](aura-cake-architect.png)
+![Write an alternative text description.](img/aura-cake-architect.png)
 
 - *Visual identity for a pattiserie*.
 - *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoying the dessert and the moment itself*.
@@ -46,7 +46,7 @@ My visuals always derive from clients needs, therefore they differ. <!-- I don't
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](cswb-london.png)
+![Write an alternative text description.](img/cswb-london.png)
 
 - *Visual identity for Czech School in London. School project for a real client*.
 - *The school was facing a problem of categorising their activities in online and offline communication. Our goal was to distinguish the areas and make the communication understandable*.
