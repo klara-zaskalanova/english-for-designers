@@ -39,7 +39,7 @@ My visuals always derive from clients needs, therefore they differ. <!-- I don't
 ![Showscreen. Three photos of gently textured white cake standing on tree stump. No decorations placed on cake, only one crossed fig fruit standing next to it. Peaceful atmosphere, japandi style. Creamy-beige business card in foreground.](img/aura-cake-architect.png)
 
 - *Visual identity for a pattiserie*.
-- *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindufully enjoying the dessert and the moment itself*.
+- *The task was to create an identity for the pattiserie and make it a brand, so it will stand out from the other pattiseries in town. The main idea I created and want to be communicated, is to be more present. Aura shouldn't be just about desserts but also about slowing down. About mindfully enjoying the dessert and the moment itself*.
 - *Aura is a small business, so the branding was all on me. And I creatd it from scratch. Besides the visual identity, I came up with a list of potential names, I provided my client with a competition research, but I also took care of photos and copywriting.*
 
 ### Czech School Without Borders, London / 2022
