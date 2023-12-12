@@ -28,4 +28,4 @@ My dad’s a psychologist. And he does a lot of couples therapy. So this simple 
 
 After my dad corrected me around three times when I used this word, I started to be really sensitive to it. And not even that much while hearing it from others, but while using it myself. Every time I catch myself using it, I am like _No, not that word_. I immediately have the urge to correct myself and I also do so. Because I realise, that it is not true. 
 
-[Back to homepage](index.md)
+[Back](index.md)
