@@ -5,8 +5,11 @@
  
  # Projects
 
-### Rheumatic Diseases With Chill (Revma v Klidu)
-Online educational and motivational course for people with rheumatic diseases. It is being created by Czech.digital (Česko.digital), volunteer community of profesionals. I worked as a part of UX team together with developers, marketers, copywriters, graphic designer and the client themselves.
+- [Rheumatic Diseases With Chill] (## Rheumatic Diseases With Chill (Revma v Klidu))
+  Online educational and motivational course for people with rheumatic diseases. It is being created by Czech.digital (Česko.digital), volunteer community of profesionals. I worked as a part of UX team together with developers, marketers, copywriters, graphic designer and the client themselves.
+
+
+## Rheumatic Diseases With Chill (Revma v Klidu)
 
 ![!<-- add alt text -->](../imgs/revma-v-klidu.png)
 
