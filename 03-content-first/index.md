@@ -7,4 +7,4 @@
 
 ## First Impression
 
-- [Draft content](english-for-designer/02-first-impression/)
+- [Draft content](english-for-designer/02-first-impression/index/)
