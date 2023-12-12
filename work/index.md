@@ -12,4 +12,8 @@ Online educational and motivational course for people with rheumatic diseases. I
 
 The course is **one of its kind** in Czech Republic. It will spread awareness of the disease and motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistance in a long-term.
 
-![!<-- add alt text -->](../imgs/revma-zoom-interview.png)
+In order to understand the needs and mainly the restrictions of our users we asked them about changes in their life after diagnoses. About treatment, about their relationship with physical exercise and about their digital literacy.
+
+I gained the experience of **in-depth user interviews** and **user testing**, worked in a interdisciplinary team with another **13 people** and once again found my sense for the tiniest detail.
+
+Project will be launched in January 2024, so stay tuned!
