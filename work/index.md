@@ -45,5 +45,18 @@ Clients review:
 ## Recognition (Poznanie)
 2023
 
+![!<--add alt text-->](../imgs/recognition.png)
 
+As a reference, we used existing tool commonly used in psychology practice. Via this tool, children are learning to notice and name their emotions. Psychologist talks with a child about various situations that has happened. Together they find out what the child felt in that situation.
 
+### 8+
+
+Realising our feelings and naming them is the first step. Child picks a card with an illustration of feeling that had experienced and looks for a name of it, or the other way round. The second step, is realisation of needs and naming them. Child is given another set of cards. These help to find words for expressing. what, in reaction to certain emotion, would he/she need. This level is aimed for parents, teachers and school psychologists. Naming our emotions and needs isn’t easy, therefore these cards are suitable for adults, as well.
+
+### 15+
+
+Second level of game is aimed for adults. The goal is to start a conversation about deeper and sensitive topics. This level is based on questions focused on emotional life. Each question is coupled with an affirmation, quote or a story connected to the regarding emotion, which is supposed to help and enrich the player/s.
+
+### Design
+
+The main design element, that can be seen in each card and also on the box is a **wave (of emotions)**. The gradient on the box represents our emotions when they are mixed together in ourselves and we are confused by them. And the cards inside the box, always consisting of one color, symbolise your emotions after the game. They are distinguished and separated.
