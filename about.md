@@ -9,7 +9,7 @@ I started to notice all the visual faux pas during my time on high school… It 
 
 I help with graphic design, web / app design and user experiences. (i don't like this sentence, should edit it)
 
-[Look at my work](word.md)
+[Look at my work](work.md)
 
 
 ## What I live for
