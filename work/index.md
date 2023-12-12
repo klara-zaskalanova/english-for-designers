@@ -1,4 +1,4 @@
-[More about me](about.md)
+[About me](./about.md)
 
 
   [Home](./index.md.md)
