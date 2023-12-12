@@ -2,10 +2,6 @@
 
 [More about me](about.md)
 
-[Home](index.md)
 
-[About](about.md)
-
-[Work](work/index.md)
-
-[Writing](writing/index.md)
+  [Work](work/index.md)
+  [Writing](writing/index.md)
