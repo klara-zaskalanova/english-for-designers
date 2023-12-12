@@ -1,4 +1,4 @@
-Home(english-for-designers/index.md/)
+Home(index.md/)
 
 About(english-for-designers/about.md/)
 
