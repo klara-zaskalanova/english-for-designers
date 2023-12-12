@@ -1,7 +1,7 @@
-Home[index.md]
+[Home](index.md)
 
-About(english-for-designers/about.md/)
+[About](about.md)
 
-Work(english-for-designers/work/index.md)
+[Work](work/index.md)
 
-Writing(english-for-designers/writing/index.md)
+[Writing](writing/index.md)
