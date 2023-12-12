@@ -3,8 +3,6 @@
 [Writing](writing/index.md)
 
 
-### Hello, I'm Klára. I’m junior digital (UX/UI) and graphic designer, striving to make the world a less complicated place. I’m currently commuting between Banská Bystrica (SK) and Prague (CZ), open to remote work and hitting the mountain trails.
-
 ## My journey
 
 I started to notice all the visual faux pas during my time on high school… It got on my nerves when I entered non-intuitive website, and my heart skipped a beat when I entered a great one. That was when I realised I want to work in a creative field. I started studying Graphic design at University of Creative Communication in Prague and now, while still studying, I am starting my career as  a digital (UX/UI) and graphic designer. I want to make the online and offline spaces less complicated, more intuitive. Less cluttered, more esthetic.
