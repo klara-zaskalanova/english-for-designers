@@ -7,4 +7,4 @@
 
 ## First Impression
 
-- [Draft content](/ajovt3-zs23-vskk/02-first-impression/)
+- [Draft content](english-for-designer/02-first-impression/)
