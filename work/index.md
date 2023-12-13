@@ -20,7 +20,7 @@
 ## Rheumatic Diseases With Chill (Revma v Klidu)
 2023
 
-![!<-- add alt text -->](../imgs/revma-v-klidu.png)
+![!<-- add alt text -->](../img/revma-v-klidu.png)
 
 The course is **one of its kind** in Czech Republic. It will spread awareness of the disease and motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistance in a long-term.
 
@@ -33,7 +33,7 @@ Project will be launched in January 2024, so stay tuned!
 ## Aura Cake Architect
 2023
 
-![!<--add alt text-->](../imgs/aura-cake-architect.png)
+![!<--add alt text-->](../img/aura-cake-architect.png)
 
 Aura is a small business, so the branding was all on me. I created it from scratch. Besides the visual identity, I came up with a list of potential names, I provided my client with a competition research, but I also took care of photos and copywriting.
 
@@ -45,7 +45,7 @@ Clients review:
 ## Recognition (Poznanie)
 2023
 
-![!<--add alt text-->](../imgs/recognition.png)
+![!<--add alt text-->](../img/recognition.png)
 
 As a reference, we used existing tool commonly used in psychology practice. Via this tool, children are learning to notice and name their emotions. Psychologist talks with a child about various situations that has happened. Together they find out what the child felt in that situation.
 
