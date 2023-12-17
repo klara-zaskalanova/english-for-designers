@@ -14,7 +14,7 @@ I help with graphic design, web / app design and user experiences. (i don't like
 
 ## What I live for
 
-![Klára wearing hiking clothes standing on green mountain meadow with white-rock mountains in the background.](img/what-i-live-for.png)
+![Klára wearing hiking clothes standing on green mountain meadow with mountains in the background.](img/what-i-live-for.png)
 
 When I am not studying or with my nose in design, you’ll find me clearing my mind in nature. Whether it is a forest behind our house or the big mountains further away, hiking is important for me. In Prague, you can find parks or small forests within the city. But in the central Slovakia, where I come from, it’s the other way round. It’s more like, you can find small towns between the forests.
 
