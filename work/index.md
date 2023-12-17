@@ -20,7 +20,7 @@
 ## Rheumatic Diseases With Chill (Revma v Klidu)
 2023
 
-![!<-- add alt text -->](../img/revma-v-klidu.png)
+![Desktop screen displaying interface of the course. Prevailing colour is peaceful green. Course avatar is an ilustrated granny with big smile and huge glasses.](../img/revma-v-klidu.png)
 
 The course is **one of its kind** in Czech Republic. It will spread awareness of the disease and motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistance in a long-term.
 
