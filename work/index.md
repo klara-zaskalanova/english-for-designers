@@ -45,7 +45,7 @@ Clients review:
 ## Recognition (Poznanie)
 2023
 
-![!<--add alt text-->](../img/recognition.png)
+![Printed prototype of board game cards. Cards are of bright colours. One coloured front sides and gradient on the back sides. Cards for adulst consis of question + affirmation. Cards for children devide into three groups: illustrations, names of emotions and names of needs.](../img/recognition.png)
 
 As a reference, we used existing tool commonly used in psychology practice. Via this tool, children are learning to notice and name their emotions. Psychologist talks with a child about various situations that has happened. Together they find out what the child felt in that situation.
 
