@@ -33,7 +33,7 @@ Project will be launched in January 2024, so stay tuned!
 ## Aura Cake Architect
 2023
 
-![!<--add alt text-->](../img/aura-cake-architect.png)
+![![Showscreen. Three photos of gently textured white cake standing on tree stump. No decorations placed on cake, only one crossed fig fruit standing next to it. Peaceful atmosphere, japandi style. Creamy-beige business card in foreground.](../img/aura-cake-architect.png)
 
 Aura is a small business, so the branding was all on me. I created it from scratch. Besides the visual identity, I came up with a list of potential names, I provided my client with a competition research, but I also took care of photos and copywriting.
 
