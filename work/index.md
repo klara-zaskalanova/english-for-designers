@@ -2,8 +2,8 @@
   [Home](../index.md)
   [Writing](../writing/index.md)
 
- 
- # Projects
+
+# Projects
 
 - [Rheumatic Diseases With Chill](#rheumatic-diseases-with-chil-(revma-v-klidu))
   
