@@ -16,11 +16,11 @@ I help with graphic design, web / app design and user experience. (i don't like 
 
 ![Klára wearing hiking clothes standing on green mountain meadow with mountains in the background.](img/what-i-live-for.png)
 
-When I am not studying or with my nose in design, you’ll find me clearing my mind in nature. Whether it is a forest behind our house or the big mountains further away, hiking is important for me. In Prague, you can find parks or small forests within the city. But in the central Slovakia, where I come from, it’s the other way round. It’s more like, you can find small towns between the forests.
+When I am not studying or with my nose in design, you’ll find me clearing my mind in nature. Whether it's a forest behind our house or the big mountains further away, hiking is important for me. In Prague, you can find parks or small forests within the city. But in the central Slovakia, where I come from, it’s the other way round. It’s more like, you can find small towns between the forests.
 
 ### More mountain pictures
 
-In my family, I'm the first of four children, and even though I'm not the one who is considered a photographer, I still think I have a feel for nice shots.  I usually don’t want to lug any heavier device with me than my phone. But sometimes I push it and take my analog camera with me, which makes the pictures more valuable. 
+In my family, I'm the first of four children. And even though I'm not the one who's considered a photographer, I still think I have a feel for nice shots. I usually don’t want to lug any heavier device with me than my phone. But sometimes I push it and take my analog camera with me, what makes the pictures more valuable. 
 
 ### Get in touch
 
