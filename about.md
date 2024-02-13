@@ -7,7 +7,7 @@
 
 I started to notice all the visual faux pas during my time on high school… It got on my nerves when I entered non-intuitive website, and my heart skipped a beat when I entered a great one. That was when I realised I want to work in a creative field. I started studying Graphic design at University of Creative Communication in Prague and now, while still studying, I am starting my career as  a digital (UI/UX) and graphic designer. I want to make the online and offline spaces less complicated, more intuitive. Less cluttered, more esthetic.
 
-I help with graphic design, web / app design and user experiences. (i don't like this sentence, should edit it)
+I help with graphic design, web / app design and user experience. (i don't like this sentence, should edit it)
 
 [Look at my work](work/index.md)
 
