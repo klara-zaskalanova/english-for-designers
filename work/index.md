@@ -11,7 +11,7 @@
 
 - [Aura Cake Architect](#aura-cake-architect)
 
-  Brand strategy with visual identitiy for patisserie. I came up with an idea, that Aura is not just about desserts. It is about slowing down. Stopping for a moment and fully enjoying it. Customers should focus on every taste and every texture on the tongue. This will help them to  enjoy not just the dessert, but the moment itself.
+  Brand strategy with visual identitiy for patisserie. I came up with an idea, that Aura isn't just about desserts. It is about slowing down. Stopping for a moment and fully enjoying it. Customers should focus on every taste and every texture on the tongue. This will help them to  enjoy not just the dessert, but the moment itself.
 
 - [Recognition](#recognition-(poznanie))
 
