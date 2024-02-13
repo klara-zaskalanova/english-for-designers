@@ -7,15 +7,15 @@
 
 - [Rheumatic Diseases With Chill](#rheumatic-diseases-with-chil-(revma-v-klidu))
   
-  Online educational and motivational course for people with rheumatic diseases. It is being created by Czech.digital (Česko.digital), volunteer community of profesionals. I worked as a part of UX team together with developers, marketers, copywriters, graphic designer and the client themselves.
+  Online educational and motivational course for people with rheumatic diseases. It's being created by Czech.digital (Česko.digital), volunteer community of profesionals. I worked as a part of UX team together with developers, marketers, copywriters, graphic designer and the client themselves.
 
 - [Aura Cake Architect](#aura-cake-architect)
 
-  Brand strategy with visual identitiy for patisserie. I came up with an idea, that Aura isn't just about desserts. It is about slowing down. Stopping for a moment and fully enjoying it. Customers should focus on every taste and every texture on the tongue. This will help them to  enjoy not just the dessert, but the moment itself.
+  Brand strategy with visual identitiy for patisserie. I came up with an idea, that Aura isn't just about desserts. It's about slowing down. Stopping for a moment and fully enjoying it. Customers should focus on every taste and every texture on their tongue. This will help them to  enjoy not just the dessert, but the moment itself.
 
 - [Recognition](#recognition-(poznanie))
 
-  Communication board game Recognition educates in recognising basic emotions and naming our needs. Our team developed everything from the idea to the final prototype. The first (8+) level introduces world of emotions to children and the second (15+) level starts deeper and meaningul conversations in adults.
+  Communication board game Recognition educates in recognising basic emotions and naming our needs. Our team developed everything from the idea to the final prototype. The first (8+) level opens the world of emotions to children and the second (15+) level starts deeper and meaningful conversations among adults.
 
 
 ## Rheumatic Diseases With Chill (Revma v Klidu)
@@ -25,7 +25,7 @@
 
 The course is **one of its kind** in Czech Republic. It will spread awareness of the disease and motivate patients to physical exercise at home. It will help people, who can't afford exercising with professional assistance in a long-term.
 
-In order to understand the needs and mainly the restrictions of our users we asked them about changes in their life after diagnoses. About treatment, about their relationship with physical exercise and about their digital literacy.
+To understand the needs and mainly the restrictions of our users we asked them about changes in their life after diagnoses. About treatment, about their relationship with physical exercise and about their digital literacy.
 
 I gained the experience of **in-depth user interviews** and **user testing**, worked in a interdisciplinary team with another **13 people** and once again found my sense for the tiniest detail.
 
@@ -52,11 +52,11 @@ As a reference, we used existing tool commonly used in psychology practice. Via 
 
 ### 8+
 
-Realising our feelings and naming them is the first step. Child picks a card with an illustration of feeling that had experienced and looks for a name of it, or the other way round. The second step, is realisation of needs and naming them. Child is given another set of cards. These help to find words for expressing. what, in reaction to certain emotion, would he/she need. This level is aimed for parents, teachers and school psychologists. Naming our emotions and needs isn’t easy, therefore these cards are suitable for adults, as well.
+Realising our feelings and naming them is the first step. Child picks a card with an illustration of feeling that had experienced and looks for a name of it, or the other way round. The second step, is to become aware of needs and to name them. Child is given another set of cards. These help to find words for expressing. What, in reaction to certain emotion, would he/she need. This level is aimed for parents, teachers and school psychologists. Naming our emotions and needs isn’t easy, therefore these cards are suitable for adults, as well.
 
 ### 15+
 
-Second level of game is aimed for adults. The goal is to start a conversation about deeper and sensitive topics. This level is based on questions focused on emotional life. Each question is coupled with an affirmation, quote or a story connected to the regarding emotion, which is supposed to help and enrich the player/s.
+Second level of game is aimed for adults. The goal is to start a conversation about deeper and sensitive topics. This level is based on questions focused on emotional life. Each question is coupled with an affirmation, quote or a story connected to the regarding emotion, which is supposed to help and enrich the player(s).
 
 ### Design
 
