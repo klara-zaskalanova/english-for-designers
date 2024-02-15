@@ -1,5 +1,3 @@
-![Patagonia Logo](img/Patagonia-Logo.png)
-
 # Voice, Tone, and Style of Patagonia brand
 
 <!-- Voice, Tone, and Style -->
@@ -8,6 +6,10 @@
 <!-- Note: Even your headings can have your voice, tone, and style. -->
 
 Voice, tone, and content. They need to match and build off of one another. Patagonia continually reinforces itself as a brand rooted in transparency in each of its communication channels. And by creating a brand voice that is trustworthy and educational, the customer is led on a consistent brand journey.
+
+
+![Patagonia Logo](../img/Patagonia-Logo.png)
+
 
 ## Voice
 
