@@ -1,4 +1,4 @@
-
+![Patagonia Logo](img/Patagonia-Logo.png)
 
 # Voice, Tone, and Style of Patagonia brand
 
