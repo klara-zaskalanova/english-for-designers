@@ -38,6 +38,7 @@ Voice, tone, and content. They need to match and build off of one another. Patag
 
 – [Patagonia Branding Strategy and Marketing Case Study](https://mapandfire.com/branding-strategies/patagonia/)
 
+
 ## Tone
 
 Here is an email introducing a new line of work apparel:
