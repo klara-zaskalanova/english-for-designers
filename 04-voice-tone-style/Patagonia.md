@@ -40,16 +40,17 @@ Voice, tone, and content. They need to match and build off of one another. Patag
 
 ## Tone
 
-Introduction to section…
-
-- **Direct:** The language and content is unfussy, matter-of-fact. There aren’t many adjectives or descriptors.
-- **Respectful**
-- **Conversational**
-
 Here is an email introducing a new line of work apparel:
 > We set out to build a Workwear line — jackets, pants, sweaters, shirts and hats — that is more durable and uses less harmful materials. Our design process begins with the basic elements — innovative hemp blends or warm, superdurable synthetics — and from there we add exactly what is necessary for the specific end use.
 
 – [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
+
+- **Direct:** The language and content is unfussy. There aren’t many adjectives or descriptors. It is a matter-of-fact introduction to new products, but with the natural tie into “less harmful materials” **and** some insight into the Patagonia design process. This simple email does a lot of work; it draws back the curtain just enough to invite folks in and see if they are interested in more.
+  
+- **Respectful**
+- **Conversational**
+
+
 
 ## Style
 
