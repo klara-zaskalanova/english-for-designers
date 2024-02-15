@@ -9,7 +9,9 @@ Voice, tone, and content. They need to match and build off of one another. Patag
 
 ## Voice
 
-Introduction to section…
+> Message consistency in all marketing channels creates the environment for clients to trust an impact-driven company. Brand voice is one of the most important tools to create a rapport and engagement. Patagonia’s distilled brand voice supports its mission-driven approach and offers latitude for the company and its promotional efforts.
+
+– [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
 
 1. Transparent, but thoughtfully: Patagonia makes a big deal about transparency. From supply chain to cash register, Patagonia presents as upfront, honest, and accountable. Patagonia is definitely not shying away from their earth-friendly mission. It’s all over. But they know when and how to deploy information about their mission without overwhelming the customer. They create spaces for customers at every level of engagement, without letting people off the hook. 
 2. Trustworthy
