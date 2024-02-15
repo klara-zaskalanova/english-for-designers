@@ -1,17 +1,17 @@
-# Voice, Tone, and Style
+# Voice, Tone, and Style of Patagonia brand
 
 <!-- Voice, Tone, and Style -->
 <!-- Voice and Tone (Style, too) -->
 <!-- Content Style Guide -->
 <!-- Note: Even your headings can have your voice, tone, and style. -->
 
-An overview…
+Voice, tone, and content. They need to match and build off of one another. Patagonia continually reinforces itself as a brand rooted in transparency in each of its communication channels. And by creating a brand voice that is trustworthy and educational, the customer is led on a consistent brand journey.
 
 ## Voice
 
 Introduction to section…
 
-1. Transparent, but thoughtfully – Patagonia makes a big deal about transparency. From supply chain to cash register, Patagonia presents as upfront, honest, and accountable. Patagonia knows, when when and how to deploy information about their mission. Patagonia is definitely not shying away from their earth-friendly mission. It’s all over. But they create spaces for customers at every level of engagement, without letting people off the hook. 
+1. Transparent, but thoughtfully: Patagonia makes a big deal about transparency. From supply chain to cash register, Patagonia presents as upfront, honest, and accountable. Patagonia is definitely not shying away from their earth-friendly mission. It’s all over. But they know when and how to deploy information about their mission without overwhelming the customer. They create spaces for customers at every level of engagement, without letting people off the hook. 
 2. Trustworthy
 3. Educational
 
@@ -19,7 +19,7 @@ Introduction to section…
 
 Introduction to section…
 
-- Direct 
+- Direct: The language and content is unfussy, matter-of-fact. There aren’t many adjectives or descriptors.
 - 
 - 
 
