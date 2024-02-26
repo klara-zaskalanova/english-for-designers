@@ -26,6 +26,12 @@ Voice, tone, and content. They need to match and build off of one another. Patag
    
 - **Educational**
 
+  > **End bottom trawling**
+  >
+  > Bottom trawling is bulldozing our ocean floor, undermining small-scale fisheries, and deepening the climate crisis. Let's end this destructive practice, starting with an immediate ban on bottom trawling in Marine Protected Areas and inshore zones. **Sign the petition.**
+  
+  > There are 65,000 inefficient, habitat-destroying, CO2-spewing deadbeat dams in the United States. They are decimating our wild salmon and steelhead. It’s time to retire deadbeat dams. 
+
 ### Dimensions
 
 >Funny <> **(+1) Serious**
@@ -38,6 +44,13 @@ Voice, tone, and content. They need to match and build off of one another. Patag
 
 – [Patagonia Branding Strategy and Marketing Case Study](https://mapandfire.com/branding-strategies/patagonia/)
 
+Example:
+
+> **Join our community**
+> 
+> Sign up for product highlights, original stories, activism awareness, events and more.
+
+Call to join the newsletter is serious but casual.
 
 ## Tone
 
@@ -47,9 +60,22 @@ Here is an email introducing a new line of work apparel:
 – [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
 
 - **Direct:** The language and content is unfussy. There aren’t many adjectives or descriptors. It is a matter-of-fact introduction to new products, but with the natural tie into “less harmful materials” **and** some insight into the Patagonia design process. This simple email does a lot of work; it draws back the curtain just enough to invite folks in and see if they are interested in more.
+
+  > Nothing replaces *wild*.
+  
+  > Not Mars.
   
 - **Respectful**
 - **Conversational**
+  > **One-Up the Weather**
+  >
+  > What you’re doing, where you’re going and how much you can pack are all serious considerations when deciding what kind of insulation you need. Our line of insulated jackets covers every kind of cold.
+
+  > **Iceland needs you**
+  >
+  > Add your voice to the movement. Open net salmon farms have no place in our wild waters. **Sign the petition.**
+  
+  > Dont have an account? Create one now.
 
 
 
