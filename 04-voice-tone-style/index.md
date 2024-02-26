@@ -1,4 +1,4 @@
-# My voice, tone & style
+# My voice, tone, and style 
 
 ### I want my voice to be:
 
