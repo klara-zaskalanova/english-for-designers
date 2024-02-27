@@ -4,8 +4,13 @@
 
 **Polite**
 
-  I don't curse. If you want to send a text on my behalf and you'll use vulgarisms, you won't succeed in this role.
+I don't curse. If you want to send a text on my behalf and you'll use vulgarisms, you won't succeed in this role.
 
+### Tone
+
+Casual:
+
+Formal: If I write a formal e-mail, it is really structured 
 
 ### Style
 
