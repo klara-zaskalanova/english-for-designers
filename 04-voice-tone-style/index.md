@@ -6,6 +6,7 @@
 
   I don't curse. If you want to send a text on my behalf and you'll use vulgarisms, you won't succeed in this role.
 
+
 ### Style
 
 **Emojis**
