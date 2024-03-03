@@ -6,6 +6,11 @@
 
   I don't curse. If you want to send a text on my behalf and you'll use vulgarisms, you won't succeed in this role.
 
+  **Honest**
+  I don't lie, but I also try to be straightforward. I don't like when people are making excuses. I am learning how to say no and I always try to politely express my opinion. I reckon everyone deserves honesty. Beating about the bush or making excuses is just wasting someones time.
+
+  The other side of my honesty is that I sometimes don't know the border line...I sometimes don't know how to serve the information in appropriate way
+
 ### Tone
 
 Casual:
