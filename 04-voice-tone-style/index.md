@@ -6,27 +6,29 @@
 
   I don't curse. If you want to send a text on my behalf and you'll use vulgarisms, you won't succeed in this role.
 
-  **Honest**
-  I don't lie, but I also try to be straightforward. I don't like when people are making excuses. I am learning how to say no and I always try to politely express my opinion. I reckon everyone deserves honesty. Beating about the bush or making excuses is just wasting someones time.
+**Honest**
+  
+  I strive to be straightforward. I am learning how to say no and to express even the negative opinions in polite way. I reckon everyone deserves honesty. Beating about the bush or making excuses is just wasting ones time.
 
-  The other side of my honesty is that I sometimes don't know the border line...I sometimes don't know how to serve the information in appropriate way
+**Elaborated**
+
+When getting to the point, I tend to overexplain things and all the circumstances that led to my desicions.
+
+  <!-- The other side of my honesty is that I sometimes don't know the border line...I sometimes don't know how to serve the information in appropriate way -->
 
 ### Tone
 
-Casual:
+Casual: 
 
-Formal: If I write a formal e-mail, it is really structured 
+Formal: 
 
 ### Style
 
-**Emojis**
+**Don't use emojis**
 
-I don't use them. My closest people would often ask, why do I sound so mad when texting. I write the same as I speak, but my messages lack intonation and mimics, therefore they happen to be misinterpreted. To avoid inducing this impression, I do actually use emojis with people who use them too. 
+I don't use them. My closest peers would often ask, why do I sound so mad when texting. I write the same as I speak, but my messages lack intonation and mimics, therefore they happen to be misinterpreted. To avoid inducing this impression, I do actually use emojis with people who use them too, or who are not yet that close to me. 
 
+**Standards of formal writing**
 
+If write a formal e-mail, it is really structured. When writing in formal sphere, I meet all the rules of text hierarchy etc.
 
-Hello, I'm Klára. I started in...
-
-I care about our environment. I organized School Strikes Fridays for Future. /picture of me at strike on the podium/ When I am supposed to give a talk or a presentation, my heart pulse is like 200. So I still don't really believe I've done it. I care about politics and I am close to activism.
-
-I am currantly working at my bachelor thesis. I am working at slowing down. I am learning how to do less. I am becoming more self confident. I am working on strenghtening my muscles and stretching my tendons.
