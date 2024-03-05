@@ -5,32 +5,7 @@
 <!-- Content Style Guide -->
 <!-- Note: Even your headings can have your voice, tone, and style. -->
 
-Voice, tone, and content. They need to match and build off of one another. Patagonia continually reinforces itself as a brand rooted in transparency in each of its communication channels. And by creating a brand voice that is trustworthy and educational, the customer is led on a consistent brand journey.
-
-
-![Patagonia Logo](../img/Patagonia-Logo.png)
-
-
-## Voice
-
-> Message consistency in all marketing channels creates the environment for clients to trust an impact-driven company. Brand voice is one of the most important tools to create a rapport and engagement. Patagonia’s distilled brand voice supports its mission-driven approach and offers latitude for the company and its promotional efforts.
-
-– [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
-
-
-- **Transparent, but thoughtfully:** Patagonia makes a big deal about transparency. From supply chain to cash register, Patagonia presents as upfront, honest, and accountable. Patagonia is definitely not shying away from their earth-friendly mission. It’s all over. But they know when and how to deploy information about their mission without overwhelming the customer. They create spaces for customers at every level of engagement, without letting people off the hook.
-   
-- **Trustworthy:** The hihg level of transparency leaves no space for doubt about trusting the brand. Their mission to reduce harm to the environment and to help rebuild it is clear and well communicated. What resonates with Patagonia customers is that the company doesn’t just talk the environmental talk. Its founder Yvon Chouinard, an accomplished rock climber, also backs up the company’s talk with its actions.
-   
-   – [The Success of Patagonia's Marketing Strategy](https://www.investopedia.com/articles/personal-finance/070715/success-patagonias-marketing-strategy.asp)
-   
-- **Educational**
-
-  > **End bottom trawling**
-  >
-  > Bottom trawling is bulldozing our ocean floor, undermining small-scale fisheries, and deepening the climate crisis. Let's end this destructive practice, starting with an immediate ban on bottom trawling in Marine Protected Areas and inshore zones. **Sign the petition.**
-  
-  > There are 65,000 inefficient, habitat-destroying, CO2-spewing deadbeat dams in the United States. They are decimating our wild salmon and steelhead. It’s time to retire deadbeat dams. 
+Patagonia continually reinforces itself as a brand rooted in transparency in each of its communication channels. And by creating a brand voice that is trustworthy and educational, the customer is led on a consistent brand journey.
 
 ### Dimensions
 
@@ -44,13 +19,39 @@ Voice, tone, and content. They need to match and build off of one another. Patag
 
 – [Patagonia Branding Strategy and Marketing Case Study](https://mapandfire.com/branding-strategies/patagonia/)
 
-Example:
+<!-- Example:
 
 > **Join our community**
 > 
 > Sign up for product highlights, original stories, activism awareness, events and more.
 
-Call to join the newsletter is serious but casual.
+Call to join the newsletter is serious but casual. -->
+
+
+![Patagonia Logo](../img/Patagonia-Logo.png)
+
+
+## Voice
+
+Message consistency in all marketing channels creates the environment for clients to trust an impact-driven company. Brand voice is one of the most important tools to create a rapport and engagement. Patagonia’s distilled brand voice supports its mission-driven approach and offers latitude for the company and its promotional efforts.
+
+– [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
+
+- **Transparent, but thoughtfully:** Patagonia makes a big deal about transparency. From supply chain to cash register, Patagonia presents as upfront, honest, and accountable. Patagonia is definitely not shying away from their earth-friendly mission. It’s all over. But they know when and how to deploy information about their mission without overwhelming the customer. They create spaces for customers at every level of engagement, without letting people off the hook.
+   
+- **Trustworthy:** The high level of transparency leaves no space for doubt about trusting the brand. Their mission to reduce harm to the environment and to help rebuild it is clear and well communicated. What resonates with Patagonia customers is that the company doesn’t just talk the environmental talk. Its founder Yvon Chouinard, an accomplished rock climber, also backs up the company’s talk with its actions.
+   
+   – [The Success of Patagonia's Marketing Strategy](https://www.investopedia.com/articles/personal-finance/070715/success-patagonias-marketing-strategy.asp)
+   
+- **Educational**
+
+  > **End bottom trawling**
+  >
+  > Bottom trawling is bulldozing our ocean floor, undermining small-scale fisheries, and deepening the climate crisis. Let's end this destructive practice, starting with an immediate ban on bottom trawling in Marine Protected Areas and inshore zones. **Sign the petition.**
+  
+  > There are 65,000 inefficient, habitat-destroying, CO2-spewing deadbeat dams in the United States. They are decimating our wild salmon and steelhead. It’s time to retire deadbeat dams. 
+
+
 
 ## Tone
 
