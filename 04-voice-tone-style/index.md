@@ -14,7 +14,7 @@
 
 **Kind:** When I talk, 80% of the time I smile. I want people to know I listen to them and I am interested in what they have to say. I also don't jump into conclusions but remind myself, that I don't know what's behind people's behaviour so I can't jugde them.
 
-**Over-sharing. Or maybe just sharing:** I am really a fan of people communiacating their feelings. I think it's extremly calming when people hear, that it's not just them feeling a certain way, and tha it's all right. That you can have fear and still do the thing you are afraid of. Sharing ones fears and worries can show others that we're all humanas. It sounds like a huge clishé, but I think this abilty is in general still lacking.
+**Over-sharing. Or maybe just sharing:** I am really a fan of people communiacating their feelings. I think it's extremly calming when people hear, that it's not just them feeling a certain way, and that it's all right. That you can have fear and still do the thing you are afraid of. Sharing ones fears and worries can show others that we're all humanas. It sounds like a huge clishé, but I think this abilty is in general still lacking.
 
 **Assertive:** When needed, I am the one who asks the question or raises the complaint. 
 
