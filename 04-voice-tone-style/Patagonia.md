@@ -1,3 +1,4 @@
+
 # Voice, Tone, and Style of Patagonia brand
 
 <!-- Voice, Tone, and Style -->
@@ -33,7 +34,7 @@ Call to join the newsletter is serious but casual. -->
 
 ## Voice
 
-Message consistency in all marketing channels creates the environment for clients to trust an impact-driven company. Brand voice is one of the most important tools to create a rapport and engagement. Patagonia’s distilled brand voice supports its mission-driven approach and offers latitude for the company and its promotional efforts.
+Message consistency in all marketing channels creates the environment for clients to trust an impact-driven company.
 
 – [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
 
@@ -52,33 +53,35 @@ Message consistency in all marketing channels creates the environment for client
   > There are 65,000 inefficient, habitat-destroying, CO2-spewing deadbeat dams in the United States. They are decimating our wild salmon and steelhead. It’s time to retire deadbeat dams. 
 
 
+![Patagonia's most famous campaign saying: Don't buy this jacket](../img/patagonia-campaign.jpeg)
+
 
 ## Tone
 
-Here is an email introducing a new line of work apparel:
+> Functional, comfortable climbing gear built to move and made to last.
+
+<!-- Here is an email introducing a new line of work apparel:
 > We set out to build a Workwear line — jackets, pants, sweaters, shirts and hats — that is more durable and uses less harmful materials. Our design process begins with the basic elements — innovative hemp blends or warm, superdurable synthetics — and from there we add exactly what is necessary for the specific end use.
 
-– [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986)
+– [What is it about Patagonia](https://medium.com/@amylipner/what-is-it-about-patagonia-306999f2f986) -->
 
-- **Direct:** The language and content is unfussy. There aren’t many adjectives or descriptors. It is a matter-of-fact introduction to new products, but with the natural tie into “less harmful materials” **and** some insight into the Patagonia design process. This simple email does a lot of work; it draws back the curtain just enough to invite folks in and see if they are interested in more.
+- **Direct:** The language and content is unfussy, matter-of-fact, always with some insight into the Patagonia design process.
 
-  > Nothing replaces *wild*.
+examples from Instagram posts:
+
+> Nothing replaces *wild*.
   
-  > Not Mars.
+> Not Mars.
   
-- **Respectful**
-- **Conversational**
-  > **One-Up the Weather**
+- **Respectful:** They don't push you to anything niether try to induce a sense of guilt.
+  
+- **Conversational:** On social media, they communicate more personally but still directly to the point without any fuss around.
+
+> **Iceland needs you**
   >
-  > What you’re doing, where you’re going and how much you can pack are all serious considerations when deciding what kind of insulation you need. Our line of insulated jackets covers every kind of cold.
+> Add your voice to the movement. Open net salmon farms have no place in our wild waters. **Sign the petition.**
 
-  > **Iceland needs you**
-  >
-  > Add your voice to the movement. Open net salmon farms have no place in our wild waters. **Sign the petition.**
-  
-  > Dont have an account? Create one now.
-
-
+> Our warm, breathable active layers will keep you charging hard in cool to cold conditions. How you fine-tune your system with them is up to you.
 
 ## Style
 
@@ -87,6 +90,7 @@ Introduction to section…
 <!-- Consider including style tips on capitalization of headings (sentence or title case), words to avoid, or general grammar and mechanics dos and don’ts, etc.
 See: https://styleguide.mailchimp.com/grammar-and-mechanics/-->
 
+- Without many adjectives or descriptions
 - …
 - …
-- …
+
