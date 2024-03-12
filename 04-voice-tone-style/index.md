@@ -24,6 +24,6 @@
 
 **Don't use ALL CAPS:** When emphasising within body text, I usually use bold, sometimes italics, but not ALL CAPS. They sound like shouting...
 
-**Standards of formal writing:** My e-mails are well structured. When writing in formal sphere, I meet all the rules of text hierarchy etc. I am also very punctual when it comes to grammar.
+**Standards of formal writing:** My e-mails are well structured. When writing in formal sphere, I meet all the rules. The text hierarchy, addressing the person, thanking in forward etc. I am also very punctual when it comes to grammar.
 
 see also [Research on Voice, Tone, and Style of my Lovebrand](Patagonia.md)
