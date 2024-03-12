@@ -20,10 +20,10 @@
 
 ## Style
 
-**Don't use emojis:** My closest peers would often ask, why do I sound so mad when texting. I write the same as I speak, but my messages lack intonation and mimics, therefore they happen to be misinterpreted. To avoid inducing this impression, I do actually use emojis with people who use them too, or who are not yet that close to me.
+**Don't use emojis:** My closest peers would often ask, why do I sound so mad when texting. I write the same as I speak. But my messages lack intonation and mimics, thus they happen to be misinterpreted. To avoid inducing this impression, I do actually use emojis with people who use them too. Or with those, who are not yet that close to me to not sound rude.
 
-**Don't use ALL CAPS:** When emphasizing within body text, I usually use bold, sometimes italics, but not ALL CAPS. They sound like shouting...
+**Don't use ALL CAPS:** When emphasising within body text, I usually use bold, sometimes italics, but not ALL CAPS. They sound like shouting...
 
-**Standards of formal writing:** My e-mails are really structured. When writing in formal sphere, I meet all the rules of text hierarchy etc. I am also very punctual when it comes to grammar.
+**Standards of formal writing:** My e-mails are well structured. When writing in formal sphere, I meet all the rules of text hierarchy etc. I am also very punctual when it comes to grammar.
 
 see also [Research on Voice, Tone, and Style of my Lovebrand](Patagonia.md)
