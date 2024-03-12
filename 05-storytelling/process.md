@@ -9,3 +9,7 @@ At first I wrote down everything that came to my mind. What I care about. What I
 After that I chose topics I felt could interconnect somehow. I put them on sticky notes and came up with covering name —— *Decluttering your space.*
 
 ![Topics on sticky notes](../img/process-03.png)
+
+Then I had a little crisis because my word count wasn't sufficient.
+
+![Word count of 400/1500](../img/process-04.png)
