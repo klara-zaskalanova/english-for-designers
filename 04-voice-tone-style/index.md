@@ -6,7 +6,7 @@
   
 **Honest:** I strive to be straightforward. I am learning how to say no and how to express even the negative opinions in polite way. I reckon everyone deserves honesty. Beating about the bush or making excuses is just wasting ones time.
 
-**People-Pleasing (unfortunately):** When getting to the point, I tend to over explain the reasons and all the circumstances that led to my decisions. (Subconsciously, of course.) 
+**People-Pleasing (unfortunately):** When getting to the point, I tend to over explain my reasons. And all the circumstances that led to my decisions. (Subconsciously, of course.) 
 
   <!-- The other side of my honesty is that I sometimes don't know the border line...I sometimes don't know how to serve the information in appropriate way -->
 
