@@ -10,6 +10,6 @@ After that I chose topics I felt could interconnect somehow. I put them on stick
 
 ![Topics on sticky notes](../img/process-03.png)
 
-Then I had a little crisis because my word count wasn't sufficient.
+Then I had a little crisis because my word count wasn't sufficient. Even though I knew I had just started.
 
 ![Word count of 400/1500](../img/process-04.png)
