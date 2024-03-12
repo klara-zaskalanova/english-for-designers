@@ -8,4 +8,4 @@
 
 - [Voice, Tone, and Style](https://klara-zaskalanova.github.io/english-for-designers/04-voice-tone-style/index)
 
-- [Storytelling](https://klara-zaskalanova.github.io/english-for-designers/05-storytelling/index)
+- [Storytelling](https://klara-zaskalanova.github.io/english-for-designers/05-storytelling/index.md)
