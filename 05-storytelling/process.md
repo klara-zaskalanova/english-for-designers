@@ -1,3 +1,11 @@
+# Decluttering Your Space
+
+by Klára Záskalanová
+
+11 March 2024
+
+— Read the [Article](index.md)
+
 ## Choosing a topic
 
 ![Starting questions](../img/process-01.png)
