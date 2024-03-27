@@ -4,6 +4,8 @@
 
 Download the [Video]() (audio+slides)
 
+Listen to the [Story]()
+
 See the [Process](process.md)
 
 Hello, I'm Klára. I'm in a bachelor's year of graphic design at University of Creative Communication in Prague.
