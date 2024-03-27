@@ -1,12 +1,12 @@
-#Why Keeping Your Desk Tidy Matters
+# Why Keeping Your Desk Tidy Matters
 
 27 March 2024, Prague
 
-Download the [Video]()(audio+slides)
+Download the [Video]() (audio+slides)
 
 See the [Process](process.md)
 
-
+### Perfect Not Cluttered Space
 Hello, I'm Klára. I'm in a bachelor's year of graphic design at University of Creative Communication in Prague.
 
 If I asked you to close your eyes and imagine your working desk at home. Is it tidied up? Everything lined up and in its place?
@@ -44,21 +44,21 @@ But all this city hustle was soaking my energy up.
 
 When I was writing this talk, I did a little research. Just to support I’m not that weird. And here’s what I’ve found:
 
-  *Urban living: 5 tips to manage mental health and city life
-  
-  Why do big cities give me anxiety
-  
-  Big City Sensory Overstimulation
-  
-  How the City Changes Your Brain
-  
-  Are big cities bad for our mental health?
-  
-  City Sensory Overload Changes the Brain
-  
-  Why living in cities raises stress
-  
-  How Living in a City Can Mess with Your Mental Health*
+> Urban living: 5 tips to manage mental health and city life
+> 
+> Why do big cities give me anxiety
+>
+> Big City Sensory Overstimulation
+>
+> How the City Changes Your Brain
+>
+> Are big cities bad for our mental health?
+>
+> City Sensory Overload Changes the Brain
+>
+> Why living in cities raises stress
+>
+> How Living in a City Can Mess with Your Mental Health*
 
 I [found](https://www.healthline.com/health/mental-health/living-in-a-city#Constant-stimulation-from-city-living-can-take-a-big-toll-on-your-mental-health), that urbanites are 21 percent more likely to have anxiety disorders and 39 percent more likely to have mood disorders. What causes the unpleasant feelings to many people are the crowds, pollution, noise, and even the so called visual smog. Our brains haven’t evolved to handle the overstimulation present on a city street.
 
@@ -80,6 +80,8 @@ Fresh air and silence.
 
 Nature is simply the greatest example of a „not cluttered“ space. I believe we should bring more of it into our urban areas. To incorporate it within the city surroundings and make our cities more pleasant to live in.
 
+### Fridays for Future
+
 The point when I became more aware of the public space was probably since I could vote. I started to care about politics. I learned about fast fashion industry — I found out what is a carbon footprint. And I became sensitive to events happening in the world.
 
 Back in the 2019, when I was 18, I started to realise how important the nature and the wildlife is, but also how endangered it is. 
@@ -89,29 +91,53 @@ Teenagers, or actually young people in general tend to be more enthusiastic and 
 But anyways, in the time I was becoming more aware of the world itself, a student movement called Fridays for Future was becoming viral.
 And it was pretty big. Actually, it was likely the largest climate protest in world history. There were over **2,500 events** scheduled in over **163 countries** on **all seven continents**.
 
-The Fridays For Future youth movement began in 2018, inspired by Greta Thunberg’s solitary protests outside the Swedish parliament. It reached a high point in November 2019, when 4 million people took part in 4,500 actions worldwide on one Friday.
-— The Guardian
-For those of you who haven’t heard about it, these were global school strikes organised by students. They were inspired by Swedish climate activist Greta Thunberg, age 16. 
-Exploding global movement of teens specifically—sort of young people more generally—protesting in various ways, the inaction of the community of business people and political leaders in combating— what this generation sees as—the existential challenge of climate change.
-—Vox
+> The Fridays For Future youth movement began in 2018, inspired by Greta Thunberg’s solitary protests outside the Swedish parliament. It reached a high point in November 2019, when 4 million people took part in 4,500 actions worldwide on one Friday.
+>
+> — [*The Guardian*](https://www.theguardian.com/environment/2022/sep/23/thousands-call-for-climate-reparations-and-justice-in-global-protests)
+
+For those of you who haven’t heard about it, these were global school strikes organised by students. They were inspired by Swedish climate activist Greta Thunberg, age 16.
+
+> Exploding global movement of teens specifically—sort of young people more generally—protesting in various ways, the inaction of the community of business people and political leaders in combating— what this generation sees as—the existential challenge of climate change.
+>
+> —[*Vox*](https://www.vox.com/energy-and-environment/2019/9/20/20875523/youth-climate-strike-fridays-future-photos-global)
+
 The main demand of the protests was action to keep global warming under 1.5 degrees Celsius, in line with the 2015 Paris agreement.
 Young people weren’t the only who was concerned about their future. Protests were supported by scientists, universities, academics, older generations and even global companies like Atlassian, The North Face, Patagonia, WordPress, SodaStream, Burton, Ben & Jerry’s and others.
+
 And I, of course, decided to support it too. After our english teacher was willing to take us to one of these protests in our capital, we organised it in our town too. The main message for the attending people was to make them become aware of their behaviour.
 To start noticing where does their food come from, where does their clothes come from. If they really need to put their fruits in  plastic bag. And if so, whether could their bring a reusable one. 
+
 The bigger picture was to appeal on our government. One of the demands was to stop the logging in national parks. Our country is rich in them, but if this logging in the fifth stage of protection continues, it won’t be so rich anymore.
+
 So even though I am terrified of public speaking, I stood on the podium and I contributed my bit.
 Because I do believe, preserving those not cluttered open spaces is crucial for us all. And I wanted to support it.
+
+### Digital Space
+
 But back to the cluttered spaces. Back to your (maybe) cluttered desk.
+
 Now I want you to imagine your home-screen. Or your web browser.
+
 Would it look like mine? 
-If I open my Safari there will be 16 tabs open. (*img*). And that would be just one of the windows. Than I would have another window with another 10 opened sites. And guess how many open tabs there will be in my mobile browser. 48.
+
+If I open my Safari there will be 16 tabs open. And that would be just one of the windows. Than I would have another window with another 10 opened sites. And guess how many open tabs there will be in my mobile browser. 48.
+
 Having many tabs open is one of the forms of digital clutter.
+
 Seeing dozen of tabs open creates a sense of urgency and overwhelm. People who decluttered their digital space and created a habit of a single open tab felt calmer, more creative, and able to sustain deep attention for longer periods of time.
+
 As I was used to have many activities and thought I have to be constantly productive, one day I found it’s hard for me to do nothing. To be bored. In moments of relax I kept feeling like I should do something after all.
+
 I was used to do so much that it was unnatural for me to do less.
+
 And I see this in many young adults. Many of us constantly strive for perfection, success and praise. Often comparing ourselves to others. We are in era of fast changes and endless possibilities. But in the end it’s us, who puts pressure on ourselves.
+
 But I also feel our generation is becoming aware of it. I think that we feel this fast era is unhealthy for us and we are returning to the slower life.
+
 Nowadays I don’t say yes to every opportunity if I don’t feel like it. I am stopping trying to multitask. I am not punishing myself if not making everything I planned for the day. And I am planning less for the day.
+
 Decluttering our both online and offline spaces can help us to live slower to a great extent. And last but not least, mainly staying outdoors. In the open space. In the nature space.
+
 In a cluttered environment, it's easy to feel overwhelmed and stuck. But after cleaning it, you'll have more mental space to develop new ideas and solutions. And live happy, strong, and healthy life.
+
 Thank you and remember to clean your desk.
