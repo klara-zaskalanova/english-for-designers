@@ -69,6 +69,8 @@ In contrast to metropoles, the perfect *not cluttered space* would be the open-s
 
 My enthusiasm for not cluttered spaces and actually the reason I decided to talk about this topic may have something to do with the region I come from. When you’d stand in the centre of our town, whichever direction you look everywhere the city ends, it meets a forest.
 
+![Banská Bystrica from bird's-eyes view](../img/banska-bystrica.png)
+
 And, you know, when you go to that forest, there is no sign of a billboard.
 
 Any wires, or excessive advertising.
@@ -81,6 +83,9 @@ Fresh air and silence.
 
 Nature is simply the greatest example of a „not cluttered“ space. I believe we should bring more of it into our urban areas. To incorporate it within the city surroundings and make our cities more pleasant to live in.
 
+![City street before and after placing trees along the road](../img/before-after-city-street.jpg)
+
+
 ### Fridays for Future
 
 The point when I became more aware of the public space was probably since I could vote. I started to care about politics. I learned about fast fashion industry — I found out what is a carbon footprint. And I became sensitive to events happening in the world.
@@ -91,6 +96,8 @@ Teenagers, or actually young people in general tend to be more enthusiastic and 
 
 But anyways, in the time I was becoming more aware of the world itself, a student movement called Fridays for Future was becoming viral.
 And it was pretty big. Actually, it was likely the largest climate protest in world history. There were over **2,500 events** scheduled in over **163 countries** on **all seven continents**.
+
+![Crowd of students protesting with transparents](../img/protest.png)
 
 > The Fridays For Future youth movement began in 2018, inspired by Greta Thunberg’s solitary protests outside the Swedish parliament. It reached a high point in November 2019, when 4 million people took part in 4,500 actions worldwide on one Friday.
 >
@@ -103,15 +110,20 @@ For those of you who haven’t heard about it, these were global school strikes 
 > —[*Vox*](https://www.vox.com/energy-and-environment/2019/9/20/20875523/youth-climate-strike-fridays-future-photos-global)
 
 The main demand of the protests was action to keep global warming under 1.5 degrees Celsius, in line with the 2015 Paris agreement.
+
 Young people weren’t the only who was concerned about their future. Protests were supported by scientists, universities, academics, older generations and even global companies like Atlassian, The North Face, Patagonia, WordPress, SodaStream, Burton, Ben & Jerry’s and others.
 
 And I, of course, decided to support it too. After our english teacher was willing to take us to one of these protests in our capital, we organised it in our town too. The main message for the attending people was to make them become aware of their behaviour.
-To start noticing where does their food come from, where does their clothes come from. If they really need to put their fruits in  plastic bag. And if so, whether could their bring a reusable one. 
+To start noticing where does their food come from, where does their clothes come from. If they really need to put their fruits in  plastic bag. And if so, whether could their bring a reusable one.
 
 The bigger picture was to appeal on our government. One of the demands was to stop the logging in national parks. Our country is rich in them, but if this logging in the fifth stage of protection continues, it won’t be so rich anymore.
 
+![Logged forests of Low Tatraas National Park](../img/low-tatras-logging.jpg)
+
 So even though I am terrified of public speaking, I stood on the podium and I contributed my bit.
 Because I do believe, preserving those not cluttered open spaces is crucial for us all. And I wanted to support it.
+
+![Meon the podium giving a speech at the protest](me-at-fff-protest.jpeg)
 
 ### Digital Space
 
