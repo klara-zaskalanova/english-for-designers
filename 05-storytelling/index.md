@@ -6,8 +6,9 @@ Download the [Video]() (audio+slides)
 
 See the [Process](process.md)
 
-### Perfect Not Cluttered Space
 Hello, I'm Klára. I'm in a bachelor's year of graphic design at University of Creative Communication in Prague.
+
+### Perfect Not Cluttered Space
 
 If I asked you to close your eyes and imagine your working desk at home. Is it tidied up? Everything lined up and in its place?
 
