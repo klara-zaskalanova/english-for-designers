@@ -123,7 +123,7 @@ The bigger picture was to appeal on our government. One of the demands was to st
 So even though I am terrified of public speaking, I stood on the podium and I contributed my bit.
 Because I do believe, preserving those not cluttered open spaces is crucial for us all. And I wanted to support it.
 
-![Meon the podium giving a speech at the protest](me-at-fff-protest.jpeg)
+![Me on the podium giving a speech at the protest](../img/me-at-fff-protest.jpeg)
 
 ### Digital Space
 
