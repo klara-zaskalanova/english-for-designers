@@ -2,11 +2,13 @@
 
 27 March 2024, Prague
 
-Download the [Video]() (audio+slides)
+Listen to the [story]()
 
-Listen to the [Story]()
+Download the [video]() (audio+slides)
 
-See the [Process](process.md)
+Download the [slides]()
+
+See the [process](process.md)
 
 Hello, I'm Klára. I'm in a bachelor's year of graphic design at University of Creative Communication in Prague.
 
