@@ -2,11 +2,11 @@
 
 27 March 2024, Prague
 
-Listen to the [story]()
+Listen to the [story]() //to be added
 
-Download the [video]() (audio+slides)
+Download the [video]() (audio+slides) // to be added
 
-Download the [slides]()
+Download the [slides](assets/slides.pdf)
 
 See the [process](process.md)
 
