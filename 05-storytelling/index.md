@@ -49,21 +49,21 @@ But all this city hustle was soaking my energy up.
 
 When I was writing this talk, I did a little research. Just to support I’m not that weird. And here’s what I’ve found:
 
-> Urban living: 5 tips to manage mental health and city life
+> **Urban living: 5 tips to manage mental health and city life**
 > 
-> Why do big cities give me anxiety
+> **Why do big cities give me anxiety**
 >
-> Big City Sensory Overstimulation
+> **Big City Sensory Overstimulation**
 >
-> How the City Changes Your Brain
+> **How the City Changes Your Brain**
 >
-> Are big cities bad for our mental health?
+> **Are big cities bad for our mental health?**
 >
-> City Sensory Overload Changes the Brain
+> **City Sensory Overload Changes the Brain**
 >
-> Why living in cities raises stress
+> **Why living in cities raises stress**
 >
-> How Living in a City Can Mess with Your Mental Health*
+> **How Living in a City Can Mess with Your Mental Health**
 
 I [found](https://www.healthline.com/health/mental-health/living-in-a-city#Constant-stimulation-from-city-living-can-take-a-big-toll-on-your-mental-health), that urbanites are 21 percent more likely to have anxiety disorders and 39 percent more likely to have mood disorders. What causes the unpleasant feelings to many people are the crowds, pollution, noise, and even the so called visual smog. Our brains haven’t evolved to handle the overstimulation present on a city street.
 
@@ -145,7 +145,7 @@ Seeing dozen of tabs open creates a sense of urgency and overwhelm. People who d
 
 As I was used to have many activities and thought I have to be constantly productive, one day I found it’s hard for me to do nothing. To be bored. In moments of relax I kept feeling like I should do something after all.
 
-I was used to do so much that it was unnatural for me to do less.
+I used to do so much that it was unnatural for me to do less.
 
 And I see this in many young adults. Many of us constantly strive for perfection, success and praise. Often comparing ourselves to others. We are in era of fast changes and endless possibilities. But in the end it’s us, who puts pressure on ourselves.
 
