@@ -2,6 +2,8 @@
 
 27 March 2024, Prague
 
+Slovak [translation](slovak-translation) for my mum
+
 Listen to the [story]() //to be added
 
 Download the [video]() (audio+slides) // to be added
