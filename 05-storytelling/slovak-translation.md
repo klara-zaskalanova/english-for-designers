@@ -59,7 +59,7 @@ Keď som písala tento príbeh, urobila som si malý prieskum. Len aby som sa ut
 >
 > **Ako mesto mení váš mozog**
 >
-> **Škodia veľkomestá nášmu duševnému zdraviu?
+> **Škodia veľkomestá nášmu duševnému zdraviu?**
 >
 > **Mestské nadmerná stimulácia mení mozog**
 >
@@ -92,71 +92,73 @@ Príroda je jednoducho najlepším príkladom "nepreplneného" priestoru. Myslí
 ![City street before and after placing trees along the road](../img/before-after-city-street.jpg)
 
 
-### Fridays for Future
+### Fridays for Future (Piatky pre budúcnosť)
 
-The point when I became more aware of the public space was probably since I could vote. I started to care about politics. I learned about fast fashion industry — I found out what is a carbon footprint. And I became sensitive to events happening in the world.
+Verejný priestor som si začala viac uvedomovať asi odkedy som mohla voliť. Začala som sa zaujímať o politiku. Dozvedel som sa o fast fashion priemysle - zistila som, čo je to uhlíková stopa. A začala som byť citlivá na udalosti, ktoré sa dejú vo svete.
 
-Back in the 2019, when I was 18, I started to realise how important the nature and the wildlife is, but also how endangered it is. 
+V roku 2019, keď som mala 18 rokov, som si začala uvedomovať, aká dôležitá je príroda a divočina, ale aj to, aká je ohrozená. 
 
-Teenagers, or actually young people in general tend to be more enthusiastic and eager to change the world. Some older people would say naive — I would say, we need more of that naivity then.
+Tínedžeri alebo vlastne mladí ľudia vo všeobecnosti bývajú odhodlanejší a túžia meniť svet. Niektorí starší ľudia by povedali, že naivní - ja by som povedala, že takejto naivity teda potrebujeme viac.
 
-But anyways, in the time I was becoming more aware of the world itself, a student movement called Fridays for Future was becoming viral.
-And it was pretty big. Actually, it was likely the largest climate protest in world history. There were over **2,500 events** scheduled in over **163 countries** on **all seven continents**.
+Ale každopádne, v čase, keď som si začala viac uvedomovať svet ako taký, sa stalo virálnym študentské hnutie s názvom Fridays for Future.
+A bolo dosť veľké. Vlastne to bol pravdepodobne najväčší klimatický protest v dejinách sveta. Bolo naplánovaných viac ako **2 500 podujatí** vo viac ako **163 krajinách** na **všetkých siedmich kontinentoch**.
 
 ![Crowd of students protesting with transparents](../img/protest.png)
 
-> The Fridays For Future youth movement began in 2018, inspired by Greta Thunberg’s solitary protests outside the Swedish parliament. It reached a high point in November 2019, when 4 million people took part in 4,500 actions worldwide on one Friday.
+> Mládežnícke hnutie Fridays For Future vzniklo v roku 2018, inšpirované solitérnymi protestmi Grety Thunbergovej pred švédskym parlamentom. Vrchol dosiahlo v novembri 2019, keď sa na 4 500 akciách po celom svete počas jedného piatku zúčastnili 4 milióny ľudí.
 >
 > — [*The Guardian*](https://www.theguardian.com/environment/2022/sep/23/thousands-call-for-climate-reparations-and-justice-in-global-protests)
 
-For those of you who haven’t heard about it, these were global school strikes organised by students. They were inspired by Swedish climate activist Greta Thunberg, age 16.
+Pre tých z vás, ktorí o tom ešte nepočuli, ide o celosvetové školské štrajky organizované študentmi. Inšpirovala ich 16-ročná švédska klimatická aktivistka Greta Thunbergová.
 
-> Exploding global movement of teens specifically—sort of young people more generally—protesting in various ways, the inaction of the community of business people and political leaders in combating— what this generation sees as—the existential challenge of climate change.
+> Explodujúce celosvetové hnutie konkrétne tínedžerov - alebo všeobecnejšie mladých ľudí - protestujúcich rôznymi spôsobmi proti nečinnosti komunity podnikateľov a politických lídrov v boji proti tomu, čo táto generácia považuje za existenčnú výzvu, ktorou je zmena klímy.
 >
 > —[*Vox*](https://www.vox.com/energy-and-environment/2019/9/20/20875523/youth-climate-strike-fridays-future-photos-global)
 
-The main demand of the protests was action to keep global warming under 1.5 degrees Celsius, in line with the 2015 Paris agreement.
+Hlavnou požiadavkou protestov boli opatrenia na udržanie globálneho otepľovania pod 1,5 stupňa Celzia v súlade s Parížskou dohodou z roku 2015.
 
-Young people weren’t the only who was concerned about their future. Protests were supported by scientists, universities, academics, older generations and even global companies like Atlassian, The North Face, Patagonia, WordPress, SodaStream, Burton, Ben & Jerry’s and others.
+Mladí ľudia neboli jediní, kto mal obavu o svoju budúcnosť. Protesty podporili vedci, univerzity, akademici, staršie generácie a dokonca aj globálne spoločnosti ako Atlassian, The North Face, Patagonia, WordPress, SodaStream, Burton, Ben & Jerry's a ďalšie.
 
-And I, of course, decided to support it too. After our english teacher was willing to take us to one of these protests in our capital, we organised it in our town too. The main message for the attending people was to make them become aware of their behaviour.
-To start noticing where does their food come from, where does their clothes come from. If they really need to put their fruits in  plastic bag. And if so, whether could their bring a reusable one.
+A ja som sa ich, samozrejme, rozhodla podporiť tiež. Po tom, čo nás naša učiteľka angličtiny bola ochotná vziať na jeden z týchto protestov hlavnom meste, sme ho zorganizovali aj v našom meste. Hlavným posolstvom pre zúčastnených ľudí bolo, aby si uvedomili svoje správanie.
 
-The bigger picture was to appeal on our government. One of the demands was to stop the logging in national parks. Our country is rich in them, but if this logging in the fifth stage of protection continues, it won’t be so rich anymore.
+Aby si začali všímať, odkiaľ pochádza ich jedlo, odkiaľ pochádza ich oblečenie. Či si naozaj musia dávať ovocie do plastového sáčku. A ak áno, či by si mohli priniesť opakovane použiteľné.
+
+Širším cieľom bolo apelovať na našu vládu. Jednou z požiadaviek bolo zastaviť ťažbu dreva v národných parkoch. Naša krajina je na ne bohatá, ale ak bude táto ťažba dreva v piatom stupni ochrany pokračovať, už taká bohatá nebude.
 
 ![Logged forests of Low Tatraas National Park](../img/low-tatras-logging.jpg)
 
-So even though I am terrified of public speaking, I stood on the podium and I contributed my bit.
-Because I do believe, preserving those not cluttered open spaces is crucial for us all. And I wanted to support it.
+Takže aj napriek tomu, že mám extrémný strach z verejného vystupovania, som sa postavila na pódium a prispela svojím kúskom.
+
+Pretože verím, že zachovanie týchto nepreplnených otvorených priestorov je pre nás všetkých veľmi dôležité. A chcela som to podporiť.
 
 ![Me on the podium giving a speech at the protest](../img/me-at-fff-protest.jpeg)
 
-### Digital Space
+### Digitálny priestor
 
-But back to the cluttered spaces. Back to your (maybe) cluttered desk.
+Ale späť k preplneným priestorom. Späť k vášmu (možno) preplnenému stolu.
 
-Now I want you to imagine your home-screen. Or your web browser.
+Teraz chcem, aby ste si predstavili svoju domovskú plochu na počítači. Alebo váš webový prehliadač.
 
-Would it look like mine? 
+Vyzeralo by to ako u mňa? 
 
-If I open my Safari there will be 16 tabs open. And that would be just one of the windows. Than I would have another window with another 10 opened sites. And guess how many open tabs there will be in my mobile browser. 48.
+Ak otvorím svoj prehliadač, bude tam otvorených 16 kariet. A to by bolo len jedno z okien. Potom by som mala ďalšie okno s ďalšími 10 otvorenými stránkami. A hádajte, koľko otvorených kariet bude v mojom mobilnom prehliadači. 48.
 
-Having many tabs open is one of the forms of digital clutter.
+Mať otvorených veľa kariet je jednou z foriem digitálneho neporiadku.
 
-Seeing dozen of tabs open creates a sense of urgency and overwhelm. People who decluttered their digital space and created a habit of a single open tab felt calmer, more creative, and able to sustain deep attention for longer periods of time.
+Vidieť desiatky otvorených kariet vytvára pocit naliehavosti a zahltenia. Ľudia, ktorí si „upratali“ svoj digitálny priestor a vytvorili si návyk mať iba jednu otvorenú kartu, sa cítili pokojnejší, kreatívnejší a dokázali udržať hlbokú pozornosť dlhší čas.
 
-As I was used to have many activities and thought I have to be constantly productive, one day I found it’s hard for me to do nothing. To be bored. In moments of relax I kept feeling like I should do something after all.
+Keďže som bol zvyknutá mať veľa aktivít a myslela som si, že musím byť neustále produktívna, jedného dňa som zistila, že je pre mňa ťažké nerobiť nič. Nudiť sa. Vo chvíľach oddychu som mala stále pocit, že by som predsa len mala niečo robiť.
 
-I used to do so much that it was unnatural for me to do less.
+Bola som zvyknutá robiť tak veľa, že bolo pre mňa neprirodzené robiť menej.
 
-And I see this in many young adults. Many of us constantly strive for perfection, success and praise. Often comparing ourselves to others. We are in era of fast changes and endless possibilities. But in the end it’s us, who puts pressure on ourselves.
+A vidím to u mnohých mladých dospelých. Mnohí z nás sa neustále usilujú o dokonalosť, úspech a pochvalu. Často sa porovnávame s ostatnými. Sme v ére rýchlych zmien a nekonečných možností. Ale v konečnom dôsledku sme to my, kto na seba vyvíja tlak.
 
-But I also feel our generation is becoming aware of it. I think that we feel this fast era is unhealthy for us and we are returning to the slower life.
+Ale mám tiež pocit, že naša generácia si to začína uvedomovať. Myslím si, že cítime, že táto rýchla doba je pre nás nezdravá a vraciame sa k pomalšiemu životu.
 
-Nowadays I don’t say yes to every opportunity if I don’t feel like it. I am stopping trying to multitask. I am not punishing myself if not making everything I planned for the day. And I am planning less for the day.
+Dnes už nehovorím áno na každú príležitosť, ak sa na ňu necítim. Prestávam sa snažiť o robenie viacerých vecí zároveň. Netrestám sa, ak nestihnem všetko, čo som si na daný deň naplánovala. A plánujem si na deň menej.
 
-Decluttering our both online and offline spaces can help us to live slower to a great extent. And last but not least, mainly staying outdoors. In the open space. In the nature space.
+Upratanie nášho online aj offline priestoru nám môže do veľkej miery pomôcť žiť pomalšie. A v neposlednom rade hlavne pobyt na čerstvom vzduchu. V otvorenom priestore. V prírode.
 
-In a cluttered environment, it's easy to feel overwhelmed and stuck. But after cleaning it, you'll have more mental space to develop new ideas and solutions. And live happy, strong, and healthy life.
+V preplnenom prostredí sa ľahko cítime zahltení a zaseknutí. Po jeho uprataní však budete mať viac mentálneho priestoru na rozvíjanie nových nápadov a riešení. A budeme môcť žiť šťastný, silný a zdravý život.
 
-Thank you and remember to clean your desk.
+Ďakujeme a nezabudnite si upratať svoj pracovný stôl.
