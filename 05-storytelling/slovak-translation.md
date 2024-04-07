@@ -24,7 +24,7 @@ Keď pracujem pri svojom stole, chcem, aby na ňom bolo čo najmenej vecí. Ale 
 
 Už od základnej školy som chcela robiť toľko vecí. Chcela som jazdiť na koni, hrať na gitare, ale bavila ma aj matematika, chcela som tancovať, robiť keramiku... Chcela som začať s mnohými koníčkami a často sa to skončilo tým, že som mala veľa vecí nedokončených.
 
-Keď sa na to tak spätne pozerám, musela som byť preťažený.
+Keď sa na to tak spätne pozerám, musela som byť preťažená.
 
 Keď som bola na strednej škole, (opäť) som sa zúčastňovala na viacerých mimoškolských aktivitách. Bol som súčasťou školského parlamentu a pomáhal som znovuzrodiť školský časopis. Tam som bola redaktorkou, "grafičkou" a niekedy aj poetkou. Milovala som všetko to plánovanie, organizovanie a hlavne všetko to tvorenie.
 
