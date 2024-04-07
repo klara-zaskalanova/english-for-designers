@@ -22,7 +22,7 @@ Or is it a total mess? Used tissues, unwashed plates and anything else you've us
 
 When I work at my desk, I want as little stuff on it as possible. But it wasn’t always that way.
 
-Ever since I was in elementary school, I wanted to do so many things. I wanted to ride a horse, to play a guitar, but I also liked mathematics, I wanted to dance, to do ceramics… I wanted to start manny hobbies and it often ended up with having many things unfinished.
+Ever since I was in elementary school, I wanted to do so many things. I wanted to ride a horse, to play a guitar, but I also liked mathematics, I wanted to dance, to do ceramics… I wanted to start many hobbies and it often ended up with having many things unfinished.
 
 Looking back on it like that, I must have been overwhelmed.
 
@@ -33,6 +33,7 @@ I was always busy. Always found myself something to do. Even when I was at home.
 It all changed when I came to university. At the starting line of becoming a designer, I realised there are so many options. So many different paths I can take. It terrified me.
 
 I kept overthinking my possible career. I saw the myriad options to choose from, many tools to learn. I started to doubt myself.
+
 Am I able to do this? When am I going to learn all this? That’s so much new stuff.
 
 My mind became cluttered with these thoughts.
@@ -101,6 +102,7 @@ Back in the 2019, when I was 18, I started to realise how important the nature a
 Teenagers, or actually young people in general tend to be more enthusiastic and eager to change the world. Some older people would say naive — I would say, we need more of that naivity then.
 
 But anyways, in the time I was becoming more aware of the world itself, a student movement called Fridays for Future was becoming viral.
+
 And it was pretty big. Actually, it was likely the largest climate protest in world history. There were over **2,500 events** scheduled in over **163 countries** on **all seven continents**.
 
 ![Crowd of students protesting with transparents](../img/protest.png)
@@ -120,6 +122,7 @@ The main demand of the protests was action to keep global warming under 1.5 degr
 Young people weren’t the only who was concerned about their future. Protests were supported by scientists, universities, academics, older generations and even global companies like Atlassian, The North Face, Patagonia, WordPress, SodaStream, Burton, Ben & Jerry’s and others.
 
 And I, of course, decided to support it too. After our english teacher was willing to take us to one of these protests in our capital, we organised it in our town too. The main message for the attending people was to make them become aware of their behaviour.
+
 To start noticing where does their food come from, where does their clothes come from. If they really need to put their fruits in  plastic bag. And if so, whether could their bring a reusable one.
 
 The bigger picture was to appeal on our government. One of the demands was to stop the logging in national parks. Our country is rich in them, but if this logging in the fifth stage of protection continues, it won’t be so rich anymore.
@@ -127,6 +130,7 @@ The bigger picture was to appeal on our government. One of the demands was to st
 ![Logged forests of Low Tatraas National Park](../img/low-tatras-logging.jpg)
 
 So even though I am terrified of public speaking, I stood on the podium and I contributed my bit.
+
 Because I do believe, preserving those not cluttered open spaces is crucial for us all. And I wanted to support it.
 
 ![Me on the podium giving a speech at the protest](../img/me-at-fff-protest.jpeg)
