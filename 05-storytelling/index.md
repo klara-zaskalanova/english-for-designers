@@ -2,7 +2,7 @@
 
 27 March 2024, Prague
 
-Slovak [translation](slovak-translation) for my mom
+Slovak [translation](slovak-translation.md) for my mom
 
 Listen to the [story]() //to be added
 
