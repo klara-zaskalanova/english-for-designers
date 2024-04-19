@@ -6,9 +6,9 @@ Slovak [translation](slovak-translation.md) for my mom
 
 Listen to the [story](assets/audio.mp3)
 
-Download the [video](https://drive.google.com/file/d/1xLeahLnTwDoAYRbMuDBUrWzfc1OakXGs/view?usp=share_link) (audio+slides)
+Watch the [video](https://drive.google.com/file/d/1xLeahLnTwDoAYRbMuDBUrWzfc1OakXGs/view?usp=share_link) (audio+slides)
 
-Download the [slides](assets/slides.pdf)
+See the [slides](assets/slides.pdf)
 
 See the [process](process.md)
 
