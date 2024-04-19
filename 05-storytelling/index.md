@@ -4,7 +4,7 @@
 
 Slovak [translation](slovak-translation.md) for my mom
 
-Listen to the [story]() //to be added
+Listen to the [story](assets/audio.mp3)
 
 Download the [video]() (audio+slides) // to be added
 
