@@ -6,7 +6,7 @@ by Klára Záskalanová
 
 23 April 2024
 
-- Download [the audio](assets/audio.mp3)
+- Listen to [the audio](assets/audio.mp3)
 - Download [the slides](assets/surname-title-slides.pdf) // to be added <!-- Link to your slides: PDF, Figma, etc. -->
 - Watch [the video](https://drive.google.com/file/d/1N5-lDWKAy3CGKtaPM2v5Tj-lImG2Gfuj/view?usp=share_link) (audio + slides)
 
