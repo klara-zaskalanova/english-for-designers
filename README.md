@@ -11,3 +11,5 @@
 - [Storytelling](https://klara-zaskalanova.github.io/english-for-designers/05-storytelling/index)
 
 - [My Thesis](https://klara-zaskalanova.github.io/english-for-designers/06-thesis/index)
+
+- [What I've learned in 2023/2024](https://klara-zaskalanova.github.io/english-for-designers/07-year-in-review/index)
