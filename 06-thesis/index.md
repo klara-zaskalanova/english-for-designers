@@ -29,13 +29,29 @@ The narrative at our homepage is based on stages of addiction. The hero section 
 
 ![Desperate man sitting at a table with bills and depts falling at him. Illustration.](assets/parralax.png)
 
-After ending the story, there is a question for a user, whether the story sounds familiar. And at the very end, there is a big letter call: Accept your loss. It’ll be the best win of your life. + call to action button saying Seek help. The big size of letters is supposed to slower the reading and give the reader a time to think deeper about what he / she has just read.
+After ending the story, there is a question for a user, whether the story sounds familiar. And at the very end, there is a big letter call: *Accept your loss*. It’ll be the best win of your life. + call to action button saying Seek help. The big size of letters is supposed to slower the reading and give the reader a time to think deeper about what he / she has just read.
 
-For the primary colour I chose a vivid purple, that refers to the casino aesthetics. In the combination with the primary background beige it should feel warm and it shouldn’t remind of medical websites. The initial primary colour was light blue, but after my thesis supervisor referred to it as sterile, I changed it to the purple. Supplementary colours used for illustrations are less saturated, to express we are moving away from the casino aesthetics. But I still kept a broad spectrum of colours, since our target audience is used to it.  A big part of the visual language are the illustrations. They are from an external resource icons8.com. Choosing the right illustrations wasn’t an easy task. The topic of gambling is pretty specific and not common. Therefore I had to find illustrations that are neutral enough to use them in this context. After their purchaser I had to edit the characters and create the scenes that would fit our story. Illustrations weren’t used only at the homepage, but throughout the whole web portal. Almost each of them had to be edited to match our topic.
+![Bigletter call to action](assets/CTA.png)
+
+For the primary colour I chose a vivid purple, that refers to the casino aesthetics. In the combination with the primary background beige it should feel warm and it shouldn’t remind of medical websites. The initial primary colour was light blue, but after my thesis supervisor referred to it as sterile, I changed it to the purple. Supplementary colours used for illustrations are less saturated, to express we are moving away from the casino aesthetics. But I still kept a broad spectrum of colours, since our target audience is used to it.
+
+![Color scheme, shades of vivid purple + pastel colors](colors.png)
+
+A big part of the visual language are the illustrations. They are from an external resource icons8.com. Choosing the right illustrations wasn’t an easy task. The topic of gambling is pretty specific and not common. Therefore I had to find illustrations that are neutral enough to use them in this context. After their purchaser I had to edit the characters and create the scenes that would fit our story. Illustrations weren’t used only at the homepage, but throughout the whole web portal. Almost each of them had to be edited to match our topic.
+
+![Cartoon illustrations fitting problem gambling context](assets/illustrations.png)
 
 Even though it isn’t such an important part, I created a new logo of the website. It is a connection of pause symbol (meaning you should pause and subsequently stop your gambling) and the page’s initial letter. It’s main purpose was to be suitable for the favicon format.
 
-Except the homepage, there were another six pages to redesign. The first was a page where you can run a test, whether gambling concerns you or not. Or whether it concerns your relative. The original version was a static list of questions, so I decided to make it more interactive, to engage the user. Next  page is called Articles. Here I chose to use a filter in a form of tap-bar. You can chose whether you want articles for the gamblers, relatives, or a story for children. Next page are Testimonies of people, who have an experience of gambling and treatment. You can choose, again by tap-bar filter, whether you want to read testimonies of gamblers or their relatives. But there are also poems written by gamblers and their drawing. These were collected during group sessions at the psychiatric ward in Banská Bystrica (central Slovakia). This page is probably the strongest one.
+![Logo](assets/logo.png)
+
+Except the homepage, there were another six pages to redesign. The first was a page where you can run a test, whether gambling concerns you or not. Or whether it concerns your relative. The original version was a static list of questions, so I decided to make it more interactive, to engage the user.
+
+![Test starting page](assets/test-page.png)
+
+![Test in a form of white card with question and Yes, No button options. Suplemented by progress bar of a purple colour and Previous question tertiary button](assets/test.png)
+
+Next  page is called Articles. Here I chose to use a filter in a form of tap-bar. You can chose whether you want articles for the gamblers, relatives, or a story for children. Next page are Testimonies of people, who have an experience of gambling and treatment. You can choose, again by tap-bar filter, whether you want to read testimonies of gamblers or their relatives. But there are also poems written by gamblers and their drawing. These were collected during group sessions at the psychiatric ward in Banská Bystrica (central Slovakia). This page is probably the strongest one.
 
 Before I started designing this web portal, I ran a questionary between people currently undergoing  treatment. 11/19 of them responded, that while considering seeking the help, they were influenced by stories of others. Another finding was, that 17/19 respondents would be interested in discussion forum and 15 of them would be willing to register.
 
