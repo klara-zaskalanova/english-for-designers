@@ -85,6 +85,18 @@ Additional part was my suggestion to ad a direct link to crisis line to homepage
 
 I also included a mobile interface demonstration.
 
-Even though it probably won’t be used, I designed a promotion materials. The first are an online banner ads imitate the casino adverts and are a type of guerilla marketing. Another are Instagram and Facebook posts that include testimonies: I was willing to rob my wife. And snippets from the articles like: 5 steps how to avoid relaps or First aid card. The last idea for promotion are printed brochures promoting the web, placed in medical centres and ambulances.
+![Mobile-version](assets/mobile.png)
+
+Even though it probably won’t be used, I designed a promotion materials. The first are an online banner ads imitate the casino adverts and are a type of guerilla marketing.
+
+![Online banner ads reminding of casino aesthetics](assets/banner-ads.png)
+
+Another are Instagram and Facebook posts that include testimonies: I was willing to rob my wife. And snippets from the articles like: 5 steps how to avoid relaps or First aid card.
+
+![Instagram posts](assets/ig.png)
+
+The last idea for promotion are printed brochures promoting the web, placed in medical centres and ambulances.
+
+![Brochure](brochure.png)
 
 During the thesis work a learned a lot mainly in UX design process. I had to use methods that were new to me, like content inventory and competition analysis of NGOs . But also those I already knew, like card sorting, sitemap, user flows and wire-framing. I also learned to stand a criticism and confirmed my passion for digital design. 
