@@ -45,9 +45,11 @@ Even though it isn’t such an important part, I created a new logo of the websi
 
 ![Logo](assets/logo.png)
 
-Except the homepage, there were another six pages to redesign. The first was a page where you can run a test, whether gambling concerns you or not. Or whether it concerns your relative. The original version was a static list of questions, so I decided to make it more interactive, to engage the user.
+Except the homepage, there were another six pages to redesign. The first was a page where you can run a test, whether gambling concerns you or not. Or whether it concerns your relative.
 
 ![Test starting page](assets/test-page.png)
+
+The original version was a static list of questions, so I decided to make it more interactive, to engage the user.
 
 ![Test in a form of white card with question and Yes, No button options. Suplemented by progress bar of a purple colour and Previous question tertiary button](assets/test.png)
 
