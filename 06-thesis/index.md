@@ -35,7 +35,7 @@ After ending the story, there is a question for a user, whether the story sounds
 
 For the primary colour I chose a vivid purple, that refers to the casino aesthetics. In the combination with the primary background beige it should feel warm and it shouldn’t remind of medical websites. The initial primary colour was light blue, but after my thesis supervisor referred to it as sterile, I changed it to the purple. Supplementary colours used for illustrations are less saturated, to express we are moving away from the casino aesthetics. But I still kept a broad spectrum of colours, since our target audience is used to it.
 
-![Color scheme, shades of vivid purple + pastel colors](colors.png)
+![Color scheme, shades of vivid purple + pastel colors](assets/colors.png)
 
 A big part of the visual language are the illustrations. They are from an external resource icons8.com. Choosing the right illustrations wasn’t an easy task. The topic of gambling is pretty specific and not common. Therefore I had to find illustrations that are neutral enough to use them in this context. After their purchaser I had to edit the characters and create the scenes that would fit our story. Illustrations weren’t used only at the homepage, but throughout the whole web portal. Almost each of them had to be edited to match our topic.
 
