@@ -1,6 +1,6 @@
 # Digital product to help pathological gamblers and their relatives
 
-## Thesis Lightning Talk
+### Thesis Lightning Talk
 
 by Klára Záskalanová
 
@@ -13,6 +13,8 @@ by Klára Záskalanová
 
 For my bachelor’s thesis I chose a topic of Web / App Design. But, I didn’t want to create a digital product from scratch, because I would have to come up with its purpose, with its content and basically with the whole idea. 
 At that time, my father’s web portal needed upgrade to a new system, because of its ending web support. And he suggested, this would be a good time to redesign it too. This idea perfectly complied with my idea of the bachelor’s project and before I knew it, the assignment was ready.
+
+![Current look of web. Pictures are broken, text is too small and the text column is too wide.](assets/before.png)
 
 The mentioned web is called nehraj.sk. (in English – don’t gamble) It is a web portal designed to help pathological gamblers and their relatives. Pathological gamblers are in other words people, who are addicted on different types of hazard games, such as slot machines, casino games or lotteries. Pathological gambling is one of the non-drug addictions and it concerns about 1 – 3 % of Slovak (the same for Czech) population.
 
