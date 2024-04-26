@@ -9,7 +9,6 @@ Things I learned in school year 2023/2024
 - that working on a project during night time doesn't work for me
 - that in profesional sphere there may be people who are interested in your personality as well as in your work
 - that after two cancelled master programs world is still spinning
-- 
 
 ### In profesional life I've learned:
 - I can't use fancy design terms when working with a client
@@ -24,7 +23,4 @@ Things I learned in school year 2023/2024
 - I need to spend more time doing mindfulnness excercises
 - that your sister isn't responsible for her boyfriend's political opinions
 - to forgive
-- that I want to go to therapy
-- that my childhood was from a fairytale (with the good and the bad)
-- I love my three siblings
 - when being overwhelmed by thoughts, writing them down is a perfect tool to calm down
