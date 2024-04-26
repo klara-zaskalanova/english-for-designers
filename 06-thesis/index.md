@@ -8,7 +8,7 @@ by Klára Záskalanová
 
 - Listen to [the audio](assets/audio.mp3)
 - Download [the slides](assets/surname-title-slides.pdf) // to be added <!-- Link to your slides: PDF, Figma, etc. -->
-- Watch [the video](https://drive.google.com/file/d/1N5-lDWKAy3CGKtaPM2v5Tj-lImG2Gfuj/view?usp=share_link) (audio + slides)
+- Watch [the video](https://drive.google.com/file/d/1gVJ8_jA_0o9wxuVn5Cwqr1U_FtXxAIFz/view?usp=share_link) (audio + slides)
 
 
 For my bachelor’s thesis I chose a topic of Web / App Design. But, I didn’t want to create a digital product from scratch, because I would have to come up with its purpose, with its content and basically with the whole idea. 
