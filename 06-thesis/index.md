@@ -97,6 +97,6 @@ Another are Instagram and Facebook posts that include testimonies: I was willing
 
 The last idea for promotion are printed brochures promoting the web, placed in medical centres and ambulances.
 
-![Brochure](brochure.png)
+![Brochure](assets/brochure.png)
 
 During the thesis work a learned a lot mainly in UX design process. I had to use methods that were new to me, like content inventory and competition analysis of NGOs . But also those I already knew, like card sorting, sitemap, user flows and wire-framing. I also learned to stand a criticism and confirmed my passion for digital design. 
