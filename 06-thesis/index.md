@@ -63,7 +63,7 @@ Next page are Testimonies of people, who have an experience of gambling and trea
 
 But there are also poems written by gamblers and their drawing. These were collected during group sessions at the psychiatric ward in Banská Bystrica (central Slovakia). This page is probably the strongest one.
 
-![Page with gallery of hand-drawn pictures by gamblers](assets/testimonies/drawings.png)
+![Page with gallery of hand-drawn pictures by gamblers](assets/testimonies-drawings.png)
 
 Before I started designing this web portal, I ran a questionary between people currently undergoing  treatment. 11/19 of them responded, that while considering seeking the help, they were influenced by stories of others. Another finding was, that 17/19 respondents would be interested in discussion forum and 15 of them would be willing to register.
 
