@@ -7,7 +7,7 @@ by Klára Záskalanová
 23 April 2024
 
 - Listen to [the audio](assets/audio.mp3)
-- Download [the slides](assets/slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
+- See [the slides](assets/slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
 - Watch [the video](https://drive.google.com/file/d/1gVJ8_jA_0o9wxuVn5Cwqr1U_FtXxAIFz/view?usp=share_link) (audio + slides)
 
 
