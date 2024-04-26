@@ -53,17 +53,33 @@ The original version was a static list of questions, so I decided to make it mor
 
 ![Test in a form of white card with question and Yes, No button options. Suplemented by progress bar of a purple colour and Previous question tertiary button](assets/test.png)
 
-Next  page is called Articles. Here I chose to use a filter in a form of tap-bar. You can chose whether you want articles for the gamblers, relatives, or a story for children. Next page are Testimonies of people, who have an experience of gambling and treatment. You can choose, again by tap-bar filter, whether you want to read testimonies of gamblers or their relatives. But there are also poems written by gamblers and their drawing. These were collected during group sessions at the psychiatric ward in Banská Bystrica (central Slovakia). This page is probably the strongest one.
+Next  page is called Articles. Here I chose to use a filter in a form of tap-bar. You can chose whether you want articles for the gamblers, relatives, or a story for children.
+
+![Article page with heading, illustratin, tapbar and article cards](assets/articles-page.png)
+
+Next page are Testimonies of people, who have an experience of gambling and treatment. You can choose, again by tap-bar filter, whether you want to read testimonies of gamblers or their relatives.
+
+![Testimonies page with heading, illustratin, tapbar and testimonie cards](assets/testimony-page.png)
+
+But there are also poems written by gamblers and their drawing. These were collected during group sessions at the psychiatric ward in Banská Bystrica (central Slovakia). This page is probably the strongest one.
+
+![Page with gallery of hand-drawn pictures by gamblers](assets/testimonies/drawings.png)
 
 Before I started designing this web portal, I ran a questionary between people currently undergoing  treatment. 11/19 of them responded, that while considering seeking the help, they were influenced by stories of others. Another finding was, that 17/19 respondents would be interested in discussion forum and 15 of them would be willing to register.
 
 The redesign of discussion forum was the hardest part, and it would certainly need more time and attention. In terms of bachelor’s thesis, designing forum could be a thesis of its own. With my thesis supervisor, we considered not including it at all, but after the survey’s responses, I couldn’t afford that. I concluded with redesigning it, but there are still many thing that will need improvement.
 
+![Discussion forum](assets/forum.png)
+
 Next page is Seek help. It consists of two subpages – Help for gamblers and Help for abused women and victims of violence. For these contacts I chose a form of cards that link to their websites. Contacts for victims of abuse can be filtered according to your county. I highlighted the crisis hotlines, since these are the most important information.
 
-The last page comes the About us, but I renamed it to more personal name What is nehraj.sk. Here are the information that typically appear at About us pages. The most important are the closing words of the administrator and founder saying:
+![Seek help page with contact cards](assets/sekk-help.png)
 
-I have been thinking about creating such a site for a long time. I wished that all the pain, suffering, but also hope and miraculous encounters would not remain only within the walls of the psychiatry in Banská Bystrica, but would go further. To help others, to show the way, to give courage and desire to fight for a better and more beautiful life... All this in the spirit of the motto of a movie "Send it on...". I thank to the people who decided to do something about their gambling problem and allowed me a glimpse into their lives. From them I drew inspiration, testimonies... and the desire to pursue my goals in spite of the obstacles.
+The last page comes the About us, but I renamed it to more personal name *What is nehraj.sk*. Here are the information that typically appear at About us pages. The most important are the closing words of the administrator and founder saying:
+
+> I have been thinking about creating such a site for a long time. I wished that all the pain, suffering, but also hope and miraculous encounters would not remain only within the walls of the psychiatry in Banská Bystrica, but would go further. To help others, to show the way, to give courage and desire to fight for a better and more beautiful life…  I thank to the people who decided to do something about their gambling problem and allowed me a glimpse into their lives. From them I drew inspiration, testimonies and the desire to pursue my goals in spite of the obstacles.
+
+![About us page](assets/about.pdf)
 
 Additional part was my suggestion to ad a direct link to crisis line to homepage. And also a button, that a person can use when visiting a site with a lust for gambling. This button says: I feel like gambling and after pressing it, the user would be transferred to an article about resisting the temptation.
 
