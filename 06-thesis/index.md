@@ -73,7 +73,7 @@ The redesign of discussion forum was the hardest part, and it would certainly ne
 
 Next page is Seek help. It consists of two subpages – Help for gamblers and Help for abused women and victims of violence. For these contacts I chose a form of cards that link to their websites. Contacts for victims of abuse can be filtered according to your county. I highlighted the crisis hotlines, since these are the most important information.
 
-![Seek help page with contact cards](assets/seek-help.png)
+![Seek help page with contact cards](assets/seek-help-page.png)
 
 The last page comes the About us, but I renamed it to more personal name *What is nehraj.sk*. Here are the information that typically appear at About us pages. The most important are the closing words of the administrator and founder saying:
 
