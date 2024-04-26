@@ -73,13 +73,13 @@ The redesign of discussion forum was the hardest part, and it would certainly ne
 
 Next page is Seek help. It consists of two subpages – Help for gamblers and Help for abused women and victims of violence. For these contacts I chose a form of cards that link to their websites. Contacts for victims of abuse can be filtered according to your county. I highlighted the crisis hotlines, since these are the most important information.
 
-![Seek help page with contact cards](assets/sekk-help.png)
+![Seek help page with contact cards](assets/seek-help.png)
 
 The last page comes the About us, but I renamed it to more personal name *What is nehraj.sk*. Here are the information that typically appear at About us pages. The most important are the closing words of the administrator and founder saying:
 
 > I have been thinking about creating such a site for a long time. I wished that all the pain, suffering, but also hope and miraculous encounters would not remain only within the walls of the psychiatry in Banská Bystrica, but would go further. To help others, to show the way, to give courage and desire to fight for a better and more beautiful life…  I thank to the people who decided to do something about their gambling problem and allowed me a glimpse into their lives. From them I drew inspiration, testimonies and the desire to pursue my goals in spite of the obstacles.
 
-![About us page](assets/about.pdf)
+![About us page](assets/about.png)
 
 Additional part was my suggestion to ad a direct link to crisis line to homepage. And also a button, that a person can use when visiting a site with a lust for gambling. This button says: I feel like gambling and after pressing it, the user would be transferred to an article about resisting the temptation.
 
